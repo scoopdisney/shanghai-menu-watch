@@ -1,0 +1,57 @@
+p1: 咖喱牛肉 雪菜笋丝黄鱼 肉燥饭
+p1: 108元 108元 98元
+p1: /RMB/570克/g /RMB/470克/g /RMB/400克/g
+p1: 配米饭
+p1: Braised Beef with Curry Sauce Minced Pork Rice
+p1: Yellow Croaker with Salted Vegetables
+p1: and Bamboo Shoot Rice
+p1: 牛舌拌面 番茄肥牛海鲜面 罗汉菌菇
+p1: 118元 118元 88元
+p1: (素食)
+p1: /RMB/700克/g /RMB/800克/g /RMB/430克/g
+p1: 配油豆腐鸭血汤
+p1: Beef and Seafood Noodles with Tomato Soup Vegetable Stew with Mushrooms
+p1: (Vegetarian Option)
+p1: Beef Tongue Noodles and Duck
+p1: Blood Bean Curd Soup
+p1: *套餐包含一瓶康师傅或百事瓶装饮料
+p1: *Combo includes a bottle of KSF or Pepsi beverage
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员
+p1: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant
+p1: *所有蛋制品均采用非笼养鸡蛋 *所有图片和重量仅供参考 *所有价格以人民币计算
+p1: *All menu items containing eggs are from Cage-Free sources *All images and weights are for reference only *All prices are in CNY
+p2: 烧烤精选
+p2: BBQ Selection
+p2: 时间 每日20:30 - 23:00
+p2: Time 20:30 – 23:00 Daily
+p2: 烤节瓜
+p2: 38
+p2: 元/RMB/180克/g
+p2: Grilled Zucchini
+p2: 烤照烧鸡肉
+p2: 48
+p2: 元/RMB/210克/g
+p2: Grilled Teriyaki Chicken
+p2: 烤鸡翅
+p2: 48
+p2: Grilled Chicken Wing 元/RMB/160克/g
+p2: 烤蘑菇虾滑
+p2: Grilled Mushroom 58
+p2: 元/RMB/180克/g
+p2: with Stuffed Shrimp
+p2: 烤鱿鱼
+p2: 58
+p2: Grilled Squid 元/RMB/108克/g
+p2: 烤五花肉
+p2: 58
+p2: Grilled Pork Belly 元/RMB/120克/g
+p2: 烤羊肉
+p2: 68
+p2: Grilled Lamb 元/RMB/120克/g
+p2: 烤牛肉
+p2: 68
+p2: Grilled Beef 元/RMB/120克/g
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p2: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p2: *所有图片和重量仅供参考 *所有价格以人民币计算
+p2: *All images and weights are for reference only *All prices are in CNY

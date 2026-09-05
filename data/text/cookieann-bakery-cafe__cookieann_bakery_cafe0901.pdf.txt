@@ -1,0 +1,119 @@
+p1: 品 定
+p1: 饮 限
+p1: 选 咸芝士风味拿铁 45 节
+p1: 精 Beverage 季 Limited
+p1: Salted Cheese Flavored Latte 473毫升/ml asonal
+p1: ected
+p1: e l S e
+p1: S
+p1: 鸳鸯咖啡
+p1: 45
+p1: Yuan Yang Coffee 473毫升/ml
+p1: 精选
+p1: 啡
+p1: 咖
+p1: Selections
+p1: 遇
+p1: 浓 presso
+p1: s
+p1: e
+p1: N *每单至多购买2套
+p1: *Maximum two sets per transaction
+p1: 蜜桃风味冰茶 158
+p1: 缤纷奶盖水果茶 50
+p1: 含达菲和朋友们吸管杯 450毫升/ml
+p1: Colorful Fruit Tea with Cheese Milk Cap 650毫升/ml
+p1: Peach Flavored Iced Tea
+p1: with Duffy and Friends Souvenir Cup
+p1: 冻柠乳酸菌茶配香草奶盖 50
+p1: Iced Lemon Lactobacillus Tea with Vanilla Milk Cap 650毫升/ml
+p1: 橙香风味拿铁 68
+p1: 任选其一 (浓烈/低咖啡因)
+p1: 含达菲和朋友们纪念杯 500毫升/ml
+p1: 泰式云朵奶茶 45
+p1: Choose one from (Intenso, Decaffeinato)
+p1: Orange Flavored Latte
+p1: Thai Flavored Milk Tea 473毫升/ml
+p1: with Duffy and Friends Souvenir Cup
+p1: 咖啡 30
+p1: 蜜桃风味气泡水 40 Coffee 473毫升/ml (冷 Cold)
+p1: 354毫升/ml (热 Hot)
+p1: Peach Flavored Sparkling Water 473毫升/ml
+p1: 昔
+p1: 奶
+p1: Milkshake
+p1: 拿铁 35
+p1: Caffé Latte 473毫升/ml (冷 Cold)
+p1: 冰沙 Slush 354毫升/ml (热 Hot)
+p1: 卡布奇诺 35
+p1: Cappuccino 473毫升/ml (冷 Cold)
+p1: 芒果风味冰沙 68
+p1: 354毫升/ml (热 Hot)
+p1: Mango Flavored Slush 473毫升/ml
+p1: 瓶装饮料 Bottle Drinks
+p1: 抹茶风味冰沙 68
+p1: Matcha Flavored Slush 473毫升/ml
+p1: 涵养泉10岁生日庆典纪念款 10
+p1: *所有价格以人民币计算。*所有图片和重量仅供参考。 米妮草莓奶昔 68
+p1: KSF Natural Mineral Water 550毫升/ml
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p1: 10th Birthday Celebration Edition Minnie Strawberry Milkshake 473毫升/ml
+p1: *All prices are in CNY. *All images and weights are for reference only.
+p1: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: 15
+p1: 百事可乐10岁生日庆典纪念款 巧克力奶昔 68
+p1: *软冰淇淋浆料由 倾情提供。*巧克力产品由M豆 倾情提供
+p1: 600毫升/ml
+p1: *Soft serve ice cream slurries are provided by Mengniu. *Chocolate products are provided by M&M'S. Pepsi 10th Birthday Celebration Edition Chocolate Milkshake 473毫升/ml
+p1: © DISNEY
+p2: 7755 7755
+p2: 228800克克//gg 2200克克//gg
+p2: 麻麻辣辣牛牛肉肉可可丽丽饼饼 提提拉拉米米苏苏可可丽丽饼饼配配香香草草冰冰淇淇淋淋
+p2: SSppiiccyy CChhiillii TTiirraammiissuu CCrreeppee
+p2: BBeeff CCrreeppee wwiitthh VVaanniillaa IIccee CCrreeaamm
+p2: 7755 7755
+p2: 2200克克//gg 2200克克//gg
+p2: 上上海海风风味味可可丽丽饼饼 桃桃子子可可丽丽饼饼配配草草莓莓冰冰淇淇淋淋
+p2: SShhaanngghhaaiinneessee PPeeaacchh CCrreeppee
+p2: FFllaavvoorreedd CCrreeppee wwiitthh SSttrraawwbbeerryy IIccee CCrreeaamm
+p2: 5500 6688
+p2: 113300克克//gg 2200克克//gg
+p2: 杨杨枝枝甘甘露露可可夫夫饼饼 法法式式吐吐司司配配香香草草冰冰淇淇淋淋
+p2: MMaannggoo PPoommeelloo FFrreenncchh TTooaasstt
+p2: aanndd SSaaggoo CCrrooffllee wwiitthh VVaanniillaa IIccee CCrreeaamm
+p2: *所有价格以人民币计算。*所有图片和重量仅供参考。*如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p2: *All prices are in CNY. *All images and weights are for reference only. *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p2: © DISNEY
+p3: CCookkiieeAAnn''ss
+p3: 可琦安的心意饼饼
+p3: Made-With-Love Pastry
+p3: 达菲和朋友们吸管杯
+p3: Duffy and Friends Sipper
+p3: 58
+p3: 500毫升/ml
+p3: 可琦安的心意饼饼
+p3: CookieAnn's
+p3: Made-With-Love Pastry
+p3: 98
+p3: 195克/g
+p3: *如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p3: *所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p3: *All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p3: ©DISNEY
+p4: 达菲和朋友们吸管杯
+p4: Duffy and Friends Sipper
+p4: 58
+p4: 500毫升/ml
+p4: 桂桂花花西西柚柚风风味味冰冰茶茶
+p4: OOssmmaanntthhuuss aanndd GGrraappeeffrruuiitt
+p4: FFllaavvoorreedd IIcceedd TTeeaa
+p4: 桂桂花花风风味味拿拿铁铁
+p4: OOssmmaanntthhuuss FFllaavvoorreedd LLaattee
+p4: 草草莓莓风风味味牛牛奶奶
+p4: SSttrraawwbbeerryy FFllaavvoorreedd MMiillkk
+p4: *如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p4: *所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p4: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p4: *All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p4: ©DISNEY

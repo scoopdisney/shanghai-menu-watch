@@ -1,0 +1,183 @@
+p1: 铁板肥牛
+p1: 南乳排骨
+p1: 配麻酱拌面
+p1: Teppanyaki Beef and
+p1: Fermented Bean Curd Pork Rib
+p1: Noodles with Sesame Peanut Sauce
+p1: 南乳排骨虾仁
+p1: 配麻酱拌面
+p1: Fermented Bean Curd Pork Rib and Shrimp
+p1: Noodles with Sesame Peanut Sauce
+p1: 119
+p1: 元/RMB 490克/g
+p1: 铁板肥牛虾仁
+p1: 配麻酱拌面
+p1: Teppanyaki Beef and Shrimp
+p1: Noodles with Sesame Peanut Sauce
+p1: 119
+p1: 元/RMB 470克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 30
+p1: 119
+p1: 元/RMB 150克/g
+p1: 元/RMB 480克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 荐
+p2: 推
+p2: Recommended
+p2: 老
+p2: Tangled
+p2: 藤
+p2: 树
+p2: Family
+p2: 家
+p2: 庭
+p2: Feast 盛
+p2: 宴
+p2: 429元/RMB
+p2: 2160克/g
+p2: 猪肉卷260克，铁板孜然羊肉210克，烤鸡500克，盘肠150克，小番茄40克，莴笋220克，薯条280克，米饭500克，4杯473毫升饮料。
+p2: Pork Roll 260g, Teppanyaki Lamb 210g, Roasted Chicken 500g, Spiral Sausage 150g, Cherry Tomato 40g, Asparagus Lettuce 220g,
+p2: French Fries 280g, Rice 500g, 4 Cups of Soft Drinks 473ml/Per Cup.
+p2: 荐
+p2: 推
+p2: Recommended
+p2: 老
+p2: Tangled
+p2: 藤
+p2: 树
+p2: Feast
+p2: 双
+p2: 人
+p2: For
+p2: 套
+p2: 2
+p2: 餐
+p2: 填馅烤鸡500克， 299元/RMB
+p2: 莴笋220克，樱桃番茄100克，
+p2: 薯条260克，八宝辣酱(咸肉，腊肠， 1690克/g
+p2: 栗子，香菇，笋，火腿，鸡肉，玉米，青豆，
+p2: 胡萝卜)150克，玉米260克，鸡柳120克，烧烤汁20克，青菜100克
+p2: Roasted Stuffed Chicken 500g, Asparagus Lettuce 220g, Cherry Tomato 100g, French Fries 260g,
+p2: Eight Treasures Spicy Sauce (Salted Meat, Sausage, Chestnut, Shiitake Mushroom, Bamboo Shoot, Ham, Chicken, Corn, Green Pea,
+p2: Carrot) 150g, Corn 260g, Chicken Tender 120g, BBQ Sauce 20g, Bok choy 100g
+p2: 2杯473毫升饮料
+p2: 2 Cups of Soft Drinks 473ml/Per Cup
+p2: 109元/RMB
+p2: 119元/RMB
+p2: 109元/RMB 510克/g
+p2: 390克/g
+p2: 470克/g
+p2: 猪肉卷配卤肉酱
+p2: 烤牛肉
+p2: 铁板牛肉
+p2: 和米饭
+p2: 配玉米和薯条
+p2: 配蔬菜和米饭 Pork Roll with Stewed
+p2: BBQ Beef Brisket with
+p2: Meat Sauce and Rice
+p2: Teppanyaki Beef Corn on the Cob and French Fries
+p2: with Vegetable and Rice
+p2: *所有蛋制品均采用非笼养鸡蛋
+p2: *All egg products are from Cage-Free sources
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p2: *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。
+p2: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p2: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外) *所有图片和重量仅供参考 *所有价格以人民币计算
+p2: © DISNEY
+p2: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded) *All images and weights are for reference only *All prices are in CNY
+p3: 配餐
+p3: SIDE DISH
+p3: 儿童套餐
+p3: KIDS’ MEALS
+p3: *儿童套餐适用于年龄3周岁(含)至11周岁(含)的儿童 米饭 5元/RMB
+p3: *Kid's menu applies to children aged 3 to 11 years old (both inclusive)
+p3: 250克/g
+p3: Rice
+p3: 55元/RMB
+p3: 米奇蒸蛋配面条
+p3: 370克/g
+p3: Noodles with Mickey Steamed Egg 薯条 25元/RMB
+p3: *包含一盒190毫升蒙牛未来星牛奶或一杯250毫升无酒精冷饮(特色饮料除外)
+p3: 150克/g
+p3: 或一瓶350毫升康师傅涵养泉及苹果泥一份 French Fries
+p3: *Includes a 190ml Mengniu Future Star Milk or a 250ml non-alcoholic cold beverage
+p3: (Specialty Drinks Excluded) or 350ml KSF Natural Mineral Water and Apple Puree
+p3: 葱油芋艿 30元/RMB
+p3: 素食 150克/g
+p3: VEGETARIAN MEAL Stewed Taro with Scallion Oil
+p3: 酱烧素鸡配米饭 89元/RMB
+p3: 铁板韭黄鱿鱼 45元/RMB
+p3: 480克/g
+p3: Fried Vegetarian Bean Curd with 170克/g
+p3: Teppanyaki Squid with Chives
+p3: Garlic Soy Sauce and Rice
+p3: 饮品
+p3: BEVERAGES
+p3: 涵养泉 10元/RMB
+p3: 550毫升/ml
+p3: 10岁生日庆典纪念款
+p3: KSF Natural Mineral Water
+p3: 10th Birthday Celebration Edition 50
+p3: 元/RMB
+p3: 140克/g
+p3: 茗茶
+p3: 20元/RMB
+p3: 354毫升/ml
+p3: Tea
+p3: 甜品
+p3: DESSERTS
+p3: 各式饮料
+p3: 20元/RMB
+p3: Assorted Beverages 473毫升/ml 新鲜西瓜杯 25元/RMB
+p3: 25元/RMB
+p3: 220克/g
+p3: Fresh Watermelon Cup
+p3: 650毫升/ml
+p3: 珍珠奶茶
+p3: 40元/RMB 上海迪士尼度假区 X 德芙 48元/RMB
+p3: 30克/g
+p3: Bubble Milk Tea 354毫升/ml 米奇城堡牛奶巧克力
+p3: 咖啡 Shanghai Disney Resort X Dove
+p3: 30元/RMB
+p3: Mickey Castle Milk Chocolate
+p3: Coffee (热/Hot)354毫升/ml
+p3: (冷/Cold)473毫升/ml
+p3: 卡布奇诺 提拉米苏 50元/RMB
+p3: 35元/RMB
+p3: 75克/g
+p3: Tiramisu
+p3: Cappuccino (热/Hot)354毫升/ml
+p3: 拿铁
+p3: 35元/RMB 上海迪士尼度假区 X M 豆 68元/RMB
+p3: 120克/g
+p3: Caffé Latte (热/Hot)354毫升/ml 牛奶巧克力豆(方罐)
+p3: (冷/Cold)473毫升/ml
+p3: Shanghai Disney Resort X M&M'S
+p3: 青岛/喜力啤酒 25元/RMB
+p3: Milk Chocolate(Jar)
+p3: 330毫升/ml
+p3: Tsingtao/Heineken Beer
+p3: *不得向18岁以下游客销售酒类商品。
+p3: 我们将查验购买者的有效身份证件以确认年龄。每单至多购买2杯。
+p3: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law.
+p3: We will check valid ID credentials to confirm age.Maximum two cups per transaction。
+p3: *所有蛋制品均采用非笼养鸡蛋
+p3: *All egg products are from Cage-Free sources
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p3: *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。
+p3: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p3: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外) *所有图片和重量仅供参考 *所有价格以人民币计算
+p3: © DISNEY
+p3: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded) *All images and weights are for reference only *All prices are in CNY

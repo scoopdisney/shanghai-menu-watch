@@ -1,0 +1,120 @@
+p1: 皇家宴会厅10岁生日庆典套餐
+p1: Royal Banquet Hall 10th Birthday Celebration Set Menu
+p1: 开胃菜
+p1: Appetizer
+p1: 蟹肉色拉, 牛油果, 鱼籽酱, 酱油 喱
+p1: 80克/g
+p1: 啫
+p1: Crab Salad, Avocado, Caviar, Soy Sauce Jelly
+p1: 汤 Soup
+p1: 香煎牛蛙腿, 蘑菇清汤, 花菜糕 180克/g
+p1: Pan-fried Frog Leg, Mushroom Broth, Cauliflower Timbale
+p1: 主菜
+p1: Main Course
+p1: 烤银鳕鱼, 蔬菜, 烟熏班尼斯汁
+p1: 200克/g
+p1: Baked Silver Cod, Vegetables, Smoked Bé arnaise
+p1: 或Or
+p1: 扒和牛牛臀, 油浸土豆, 洋葱酱, 羊肚菌汁
+p1: 190克/g
+p1: Grilled Wagyu Beef Rump, Potato Fondant, Onion Jam, Morel Sauce
+p1: 甜品
+p1: Dessert
+p1: 椰香香草布丁, 椰子慕斯, 百香果芒果 喱, 树莓
+p1: 130克/g
+p1: 啫
+p1: Coconut Vanilla Pudding, Coconut Mousse,
+p1: Passionfruit Mango Jelly, Raspberry
+p1: 饮料
+p1: Beverage
+p1: 绿茶奇异果漾
+p1: 250毫升/ml
+p1: Green Tea Kiwi Bliss
+p1: 788 658
+p1: RMB / 一位 RMB / 一位
+p1: 非年卡价格 年卡价格
+p1: Non-Annual Pass Holders Price Annual Pass Holders Price
+p1: *所有蛋制品均采用非笼养鸡蛋 *All menu items containing eggs are from Cage-Free sources
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员 *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p1: *所有图片和重量仅供参考 *All images and weights are for reference only
+p1: *以上价格均为人民币，15%服务费已包含 *All prices are in CNY and a 15% service charge is included
+p1: © DISNEY
+p2: 三道菜套餐
+p2: 从下列餐品中各选一项
+p2: 开胃菜/主食/甜品
+p2: Three Courses
+p2: (Choose One Dish from each of the following Courses)
+p2: Appetizers / Entrées / Desserts
+p2: 428元 298元
+p2: 价格:成人 /儿童
+p2: ： RMB 428 / RMB 298
+p2: Price Adults Children
+p2: *套餐包括咖啡或茗茶 *Combo includes Coffee or Tea
+p2: 所有蛋制品均采用非笼养鸡蛋
+p2: *All menu items containing eggs are from Cage-Free sources
+p2: *儿童套餐适用于年龄3周岁(含)至11周岁(含)的儿童
+p2: *Kids 3 years and older and kids with their 12th birthdays after the date of the visit can order from the kid’s menu
+p2: *根据法律规定，不得向18岁以下游客销售酒类商品。我们将查验购买者的有效身份证件以确认年龄。
+p2: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law.
+p2: We will check valid ID credentials to confirm age.
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p2: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p2: *套餐中的蔬菜和水果有可能根据季节变化提供替代食材，尽请谅解。
+p2: *We may substitute different vegetables and fruits in any combo meal with the change of seasons. Thank you for your understanding.
+p2: *食物中的花朵可能根据供应情况提供替代品种，尽请谅解。
+p2: *We may substitute different flowers in any dishes based on the change of supply. Thank you for your understanding.
+p2: *以上价格均为人民币，并需加收15%服务费 *All prices are in CNY and are subject to a 15% service charge
+p2: *所有图片和重量仅供参考 *All images and weights are for reference only
+p3: 开胃菜
+p3: Appetizers
+p3: 金枪鱼色拉配生姜酱油汁 香煎扇贝配花菜泥
+p3: Tuna Salad with Ginger Soy Dressing Seared Scallop with Cauliflower Puree
+p3: 130克/g 120克/g
+p3: 番茄芝士色拉配罗勒酱和
+p3: 羊肚菌竹笋排骨汤
+p3: 伊比利亚火腿
+p3: Pork Ribs Soup
+p3: Tomato Cheese Salad with Pesto and Iberico Ham with Morels and Bamboo Shoot
+p3: 150克/g 180克/g
+p3: 番茄芝士浓汤配虎虾和鲍鱼 香炸咸蛋黄软壳蟹配芒果莎莎
+p3: Tomato Cheese Bisque Deep-fried Softshell Crab with
+p3: with Tiger Prawn and Abalone Salted Egg Yolk and Mango Salsa
+p3: 180克/g 125克/g
+p3: *所有图片和重量仅供参考
+p3: *All images and weights are for reference only
+p4: 主食
+p4: Entrées
+p4: 另加68元可选 另加68元可选 另加68元可选
+p4: RMB 68 RMB 68 RMB 68
+p4: Add for this choice Add for this choice Add for this choice
+p4: 扒牛里脊配油封土豆和红酒汁 香煎鳕鱼配蒜味蜂蜜汁 皇家海鲜捞面
+p4: Grilled Beef Tenderloin with Potato Confit Pan-fried Cod with Honey Garlic Sauce Royal Seafood Noodles
+p4: and Red Wine Sauce 190克/g 350克/g
+p4: 210克/g
+p4: 红酒烩牛脸颊配 仙蒂瑞拉南瓜盅配 三杯鳜鱼和虾仁
+p4: 土豆泥和孢子甘蓝 松露油焖笋和牛肝菌
+p4: Mandarin Fish
+p4: with Three Cup Sauce and Shrimps
+p4: Beef Cheek Ragout with Cinderella Pumpkin with
+p4: Mashed Potato and Brussels Sprout Braised Truffle Bamboo Shoots and Porcini 230克/g
+p4: 230克/g 360克/g
+p4: 烤乳鸽配冰花梅酱和薄饼 红烧鲜鲍五花肉
+p4: Roasted Pigeon with Plum Jam and Tortilla
+p4: Braised Abalone and Pork Belly in Soy Sauce
+p4: 300克/g
+p4: 370克/g
+p4: *所有图片和重量仅供参考 *All images and weights are for reference only
+p4: *以上价格均为人民币，并需加收15%服务费 *All prices are in CNY and are subject to a 15% service charge
+p5: 甜品
+p5: Desserts
+p5: 芝士蛋糕配香草冰淇淋 白雪公主红苹果
+p5: Cheesecake with Vanilla Ice Cream Snow White Apple
+p5: 185克/g 120克/g
+p5: 黑巧克力慕斯蛋糕 香草车厘子慕斯配草莓冰淇淋
+p5: Dark Chocolate Mousse Cake Vanilla Cherry Mousse with Strawberry Ice Cream
+p5: 160克/g 120克/g
+p5: 新鲜草莓, 黑莓冰霜, 莓果汁 水果拼盘
+p5: Fresh Strawberry, Blackberry Sorbet, Berry Coulis Fruit Platter
+p5: 120克/g 280克/g
+p5: *所有图片和重量仅供参考
+p5: *All images and weights are for reference only

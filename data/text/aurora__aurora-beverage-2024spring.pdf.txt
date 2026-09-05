@@ -1,0 +1,215 @@
+p1: 绚景楼特调 - 桌边现场调制
+p1: 杯/ Glass
+p1: Aurora Specialty Drinks – made tableside
+p1: 特调鸡尾酒/ / SPECIALTY COCKTAIL
+p1: 绚景梦
+p1: RMB 88
+p1: Aurora dream
+p1: 哥顿金酒,君度,青柠汁,红石榴糖浆,菠萝汁和苦精
+p1: Gondon's Gin, Cointreau, Lime juice, Grenadine syrup, Pineapple juice and Angostura bitters
+p1: 190 毫 升 /ml
+p1: 特调无酒精鸡尾酒/ / SPECIALTY NON-ALCOHOLIC MOCKTAIL
+p1: 极光 RMB 78
+p1: Aurora glow
+p1: 青苹果酱,绿薄荷糖浆,茉莉绿茶,青柠汁和新鲜猕猴桃
+p1: Green apple purée, Green mint syrup, Jasmine green tea, Lime juice and Fresh kiwi fruit
+p1: 150 毫 升 /ml
+p1: © DISNEY
+p2: 经典鸡尾酒
+p2: 杯/ Glass
+p2: Classic Cocktails
+p2: 马天尼 RMB 88
+p2: Martini
+p2: 添加利金酒或坎特一号伏特加,马天尼干
+p2: Tanqueray Gin or Ketel One Vodka, Martini dry vermouth
+p2: 100 毫 升 /ml
+p2: 大都会
+p2: RMB 88
+p2: Cosmopolitan
+p2: 坎特一号伏特加,君度,青柠汁和蔓越莓汁
+p2: Ketel One Vodka, Cointreau, Lime juice and Cranberry juice
+p2: 120 毫 升 /ml
+p2: 玛格丽特 RMB 88
+p2: Margarita
+p2: 奥美加银标龙舌兰酒,君度,甘露糖浆和柠檬汁
+p2: Olmeca Tequila Silver, Cointreau, Gum syrup and Lemon juice
+p2: 100 毫 升 /ml
+p2: 迈泰
+p2: RMB 88
+p2: Mai-Tai
+p2: 百加得白朗姆酒,摩根船长黑朗姆酒,杏仁糖浆,石榴糖浆和青柠汁
+p2: Bacardi Carta Blanca, Captain Morgan Dark Rum, Almond syrup, Grenadine syrup and Lime juice
+p2: 270 毫 升 /ml
+p2: 莫吉托 RMB 88
+p2: Mojito
+p2: 百加得白朗姆酒,莫西多薄荷风味糖浆,苏打水和新鲜薄荷
+p2: Bacardi Carta Blanca, Mojito mint ��avored syrup, Soda water and Fresh mint
+p2: 150 毫 升 /ml
+p2: © DISNEY
+p3: 烈酒系列
+p3: 杯/
+p3: Glass
+p3: Spirits
+p3: 45 毫 升 /ml
+p3: 金酒/Gin
+p3: 添加利伦敦干金酒-英国
+p3: RMB 78
+p3: Tanqueray-UK
+p3: 孟买蓝宝石-英国
+p3: RMB 98
+p3: Bombay Sapphire-UK
+p3: 伏特加/Vodka
+p3: 坎特一号伏特加-荷兰
+p3: RMB 78
+p3: Ketel One Vodka-Netherlands
+p3: 灰雁伏特加-法国
+p3: RMB 98
+p3: Grey Goose-France
+p3: 朗姆酒/Rum
+p3: 百加得白朗姆酒-波多黎各
+p3: RMB 78
+p3: Bacardi Carta Blanca-Puerto Rico
+p3: 萨凯帕23年朗姆酒-危地马拉
+p3: RMB 128
+p3: Zacapa 23 years-Guatemala
+p3: © DISNEY
+p4: 烈酒系列
+p4: 杯/
+p4: Glass
+p4: Spirits
+p4: 45 毫 升 /ml
+p4: 龙舌兰/Tequila
+p4: 培恩金龙舌兰-墨西哥
+p4: RMB 128
+p4: Patron Reposado-Mexico
+p4: 卡萨诺宝水晶龙舌兰-墨西哥
+p4: RMB 128
+p4: Casa Noble-Mexico
+p4: 威士忌/Whisky
+p4: 杰克丹尼
+p4: RMB 78
+p4: Jack Daniel’s
+p4: 高原骑士12年
+p4: RMB 88
+p4: Highland Park 12 years
+p4: 格兰利威15年 RMB 128
+p4: Glenlivet 15 years
+p4: 格兰菲迪21年 RMB 228
+p4: Glen��ddich 21 years
+p4: 麦卡伦12年 RMB 228
+p4: The Macallan 12 years
+p4: © DISNEY
+p5: 烈酒系列
+p5: 杯/
+p5: Glass
+p5: Spirits
+p5: 45 毫 升 /ml
+p5: 白兰地/Brandy
+p5: 马爹利名仕
+p5: RMB 98
+p5: Martell Noblige
+p5: 人头马VSOP
+p5: RMB 118
+p5: Remy Martin V.S.O.P.
+p5: 开胃酒/Aperitif
+p5: 马天尼白,马天尼干,马天尼红
+p5: RMB 68
+p5: Martini Bianco, Extra Dry, Rosso
+p5: 潘诺茴香酒
+p5: RMB 68
+p5: Pernod
+p5: © DISNEY
+p6: 啤酒
+p6: 瓶/ Bottle
+p6: Beer
+p6: 青岛 RMB 48
+p6: Tsingtao
+p6: 296 毫 升 /ml
+p6: 喜力
+p6: RMB 58
+p6: Heineken
+p6: 330 毫 升 /ml
+p6: 鲜榨果蔬汁
+p6: 杯/
+p6: Glass
+p6: Freshly Squeezed Juice
+p6: 280 毫 升 /ml
+p6: 任选一至三种/Choose
+p6: 1 to 3
+p6: 橙,苹果,梨,胡萝卜,黄瓜,芹菜
+p6: RMB 58
+p6: Orange, Apple, Pear, Carrot, Cucumber, Celery
+p6: 矿泉水
+p6: 瓶/ Bottle
+p6: Mineral Water
+p6: 750 毫 升 /ml
+p6: 依云天然矿泉水
+p6: RMB 68
+p6: Evian still natural mineral water
+p6: 依云充气天然矿泉水
+p6: RMB 68
+p6: Evian sparkling natural mineral water
+p6: © DISNEY
+p7: 软饮料
+p7: 杯/
+p7: Glass
+p7: Soft Drinks
+p7: 330 毫 升 /ml
+p7: 百事可乐,百事可乐无糖,7喜,美年达大气橙味 RMB 38
+p7: Pepsi, Pepsi no sugar, 7up, Mirinda orange ��avor
+p7: 姜汁汽水 RMB 38
+p7: Ginger Ale
+p7: 汤力水
+p7: RMB 38
+p7: Tonic Water
+p7: 咖啡
+p7: 杯/
+p7: Co�fee Cup
+p7: 咖啡
+p7: RMB 48
+p7: Co�fee
+p7: 180 毫 升 /ml
+p7: 拿铁
+p7: RMB 48
+p7: Ca�fé Latte
+p7: 180 毫 升 /ml
+p7: 卡布奇诺
+p7: RMB 48
+p7: Cappuccino
+p7: 180 毫 升 /ml
+p7: 特浓咖啡
+p7: RMB 48
+p7: Espresso
+p7: 30 毫 升 /ml
+p7: © DISNEY
+p8: 中式茶
+p8: 位/
+p8: Person
+p8: Chinese Tea
+p8: 180 毫 升 /ml
+p8: 普洱/铁观音/茉莉花 RMB 48
+p8: Pu’er/Tieguanyin/Jasmine
+p8: 西式茶
+p8: 位/
+p8: Person
+p8: Western Tea
+p8: 180 毫 升 /ml
+p8: 英式早餐茶/伯爵茶/大吉岭茶
+p8: RMB 48
+p8: English breakfast/Earl Grey/Darjeeling
+p8: 其它饮品（热/冷）
+p8: 杯/
+p8: Other Beverage (Hot/Cold) Glass
+p8: 康师傅冰红茶
+p8: RMB 38
+p8: KSF ice tea
+p8: 330 毫 升 /ml
+p8: 牛奶
+p8: RMB 48
+p8: Milk
+p8: 200 毫 升 /ml
+p8: 热牛奶巧克力 RMB 48
+p8: Hot milk chocolate
+p8: 毫 升
+p8: 180 /ml
+p8: © DISNEY

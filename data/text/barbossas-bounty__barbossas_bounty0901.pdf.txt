@@ -1,0 +1,173 @@
+p1: 牛腱咸鸭腿
+p1: 蝴蝶面配金酸汤
+p1: Beef Shank and Salted Duck Leg
+p1: Butterfly Noodles with Golden Sour Soup
+p1: 海鲜牛腱
+p1: 蝴蝶面配金酸汤
+p1: Seafood and Beef Shank
+p1: Butterfly Noodles with Golden Sour Soup
+p1: 119
+p1: 元/RMB 800克/g
+p1: 海鲜咸鸭腿
+p1: 蝴蝶面配金酸汤
+p1: Seafood and Salted Duck Leg
+p1: Butterfly Noodles
+p1: with Golden Sour Soup
+p1: 119
+p1: 元/RMB 750克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 800克/g
+p1: 元/RMB 150克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 戴维琼斯海盗盛宴套餐
+p2: Davy Jones Pirate Feast for 4
+p2: 猪肋排,鸡腿,鱿鱼,菠萝,鱿鱼圈,椰香饭,青菜,
+p2: 罗望子烤鲭鱼
+p2: 烧烤汁,墨鱼汁蛋黄酱,青柠,烟熏玉米,烧烤粉
+p2: 配椰香饭 4杯473毫升饮料
+p2: Pork Rib, Chicken Leg, Squid, Pineapple, Squid Ring,
+p2: Tamarind Grilled
+p2: Coconut Rice, Boy Choy, BBQ Sauce, Ink Mayonnaise,
+p2: Mackerel with
+p2: Lime, Smoked Corn, BBQ Powder, 4 Cups of Soft Drinks
+p2: Coconut Rice 473ml/Per Cup x 4
+p2: 129 459
+p2: 元/RMB 元/RMB
+p2: 710克/g
+p2: 克
+p2: 2500 /g
+p2: 巴波萨
+p2: 烤肋排配椰香饭
+p2: 服服一一条条
+p2: 征征 船船 139
+p2: Barbossa BBQ Pork Ribs
+p2: YYOOUURR OOWWNN with Coconut Rice
+p2: BBTTAAIINN
+p2: SSHH 元 / R M B
+p2: OO IIPP 70 0 克 / g 巴波萨主厨推荐双人餐
+p2: Barbossa Chef Recommendation
+p2: Feast for 2
+p2: 鱿鱼,虾仁,青口贝,黑豆饼,芒果椰子布丁,
+p2: 椰香饭,红酸汤,蒜香面包粒,樱桃番茄
+p2: 2杯473毫升饮料
+p2: Squid, Shrimp, Mussel, Black Bean Fritter, Mango
+p2: Coconut Pudding, Coconut Rice, Red Sour Soup,
+p2: Garlic Flavored Bread Crumbs, Cherry Tomato
+p2: 2 Cups of Soft Drinks 473ml/Per Cup
+p2: 329
+p2: 2
+p2: x
+p2: 元/RMB
+p2: XO酱大虾
+p2: 克
+p2: 1750 /g
+p2: 香烤鸡腿配
+p2: 配酱油菌菇饭
+p2: 菌菇黑米饭 109
+p2: XO Sauce Shrimps
+p2: with Soy Roasted Jerk Chicken Leg
+p2: 元/RMB
+p2: Mushroom Rice with Mushroom Black Rice
+p2: 520克/g
+p2: 109
+p2: 元/RMB
+p2: 480克/g
+p2: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p2: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p2: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p2: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p2: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p2: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p2: ©DISNEY
+p3: 取取神神奇奇装装
+p3: 获获 备备
+p3: QQUUIIPPEEDD WWIITTHH MMAAGGIICCAALL
+p3: GGEEAARR
+p3: EE
+p3: 宝藏岛面包蟹酱 黑豆饼配酸甜辣椒酱 烟熏玉米排
+p3: 脆炸混合海鲜拼
+p3: Treasure Isle Crab Dip Deep-fried Black Bean Fritters Smoked BBQ Corn Strips
+p3: Deep-fried Mixed Seafood
+p3: with Sweet Chili Sauce
+p3: 85 40
+p3: 85 40
+p3: 元/RMB 元/RMB
+p3: 元 / R M B 元 / R M B
+p3: 220克/g 300克/g
+p3: 克
+p3: 23 0 / g 25 0 克 / g
+p3: 海海盗盗的的
+p3: 到到 宝宝
+p3: 藏藏
+p3: 找找
+p3: TTHHEE TTRREEAASSUURREE
+p3: FFIINNDD
+p3: 奶茶风味绵绵冰 惊喜巧克力球
+p3: 罗非鱼柳配番茄汁和米饭
+p3: Milk Tea Flavored Surprise Chocolate Ball Tilapia Fillet with Tomato
+p3: Sauce and Rice
+p3: Snow Ice 75
+p3: 75 55
+p3: 元/RMB
+p3: 元/RMB 95克/g 元/RMB
+p3: 470克/g 370克/g
+p3: 饮饮
+p3: 甜甜 BEVERAGES 卤豆腐脆葱配酱香菌菇面(素食) 89 涵养泉10岁生日庆典纪念款 10
+p3: DESSERTS 芒果椰子布丁 40 元/RMB 元/RMB
+p3: 元/RMB
+p3: 480克/g
+p3: 220克/g Braised Tofu and Crispy Onions 550毫升/ml
+p3: Mango Coconut Pudding 品品 KSF Natural Mineral Water
+p3: 品品
+p3: with Mushroom Noodles (Vegetarian) 10th Birthday Celebration Edition
+p3: 海盗金币巧克力 及及
+p3: 50 元/RMB 葱油芋艿 30
+p3: 元/RMB 咖啡 30
+p3: 元/RMB
+p3: 52克/g 150克/g
+p3: Golden Doubloons 配配 Stewed Taro with Scallion Oil
+p3: （冷/Cold）473毫升/ml
+p3: Coffee
+p3: （热/Hot）354毫升/ml
+p3: 米饭 5
+p3: 元/RMB
+p3: 新鲜西瓜杯 25 餐餐 SIDE
+p3: 元/RMB 250克/g 拿铁
+p3: 35
+p3: Rice 元/RMB
+p3: 220克/g
+p3: Fresh Watermelon Cup （冷/Cold）473毫升/ml
+p3: 茗茶 Caff é Latte
+p3: 20
+p3: 元/RMB （热/Hot）354毫升/ml
+p3: DISH 354毫升/ml
+p3: Tea
+p3: 青岛/喜力啤酒 25
+p3: 元/RMB
+p3: 各式饮料 20
+p3: 元/RMB 330毫升/ml
+p3: Tsingtao/Heineken Beer
+p3: 473毫升/ml
+p3: *不得向18岁以下游客销售酒类商品。
+p3: Assorted Beverages
+p3: 我们将查验购买者的有效身份证件以确认年龄。每单至多购买2杯。
+p3: 25
+p3: 元/RMB
+p3: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law.
+p3: 650毫升/ml We will check valid ID credentials to confirm age.Maximum two cups per transaction.
+p3: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p3: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p3: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p3: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p3: ©DISNEY

@@ -1,0 +1,95 @@
+p1: 店长特推
+p1: RECOMMENDED
+p1: 100
+p1: 烤鱼咖喱鹰嘴豆
+p1: 元/RMB
+p1: 飞碟汉堡套餐 1套/set
+p1: Roasted Fish and Curried Chickpea
+p1: UFO Burger Combo
+p1: 套餐包含：
+p1: -烤鱼咖喱鹰嘴豆飞碟汉堡*200克
+p1: -蓝柑乳酸菌风味气泡水*354毫升
+p1: 或开心果拿铁*354毫升
+p1: Combo including:
+p1: -Roasted Fish and Curried Chickpea
+p1: UFO Burger*200g
+p1: -Blue Curacao Lactobacillus Flavored
+p1: Sparkling Water*354ml
+p1: or Pistachio Latte*354ml
+p1: 疯狂动物城精选饮品
+p1: 狂动物城精选纪念
+p1: 疯 品
+p1: 芭乐风味冰茶 58
+p1: 元/RMB
+p1: Guava Flavored Iced Tea 500毫升/ml
+p1: 狂动物城精选美
+p1: 疯 食
+p1: 奇异果风味冰茶 58
+p1: 元/RMB
+p1: Kiwi Flavored Iced Tea 500毫升/ml
+p1: 30
+p1: 咖啡 75
+p1: 元/RMB 烤鱼咖喱鹰嘴豆飞碟汉堡 元/RMB
+p1: Coffee (冷)473毫升/ml
+p1: Roasted Fish and 200克/g
+p1: (热)354毫升/ml
+p1: Curried Chickpea UFO Burger
+p1: 拿铁 35
+p1: 元/RMB
+p1: Caffé Latte (冷)473毫升/ml
+p1: 蔬菜卷 75
+p1: (热)354毫升/ml 元/RMB
+p1: Vegetables Roll 280克/g
+p1: 卡布奇诺 35
+p1: 元/RMB
+p1: Cappuccino (热)354毫升/ml
+p1: 胡萝卜血橙雪芭蛋筒 58
+p1: 元/RMB
+p1: 15 Carrot and Blood Orange 120克/g
+p1: 百事可鹿
+p1: 元/RMB Sorbet Cone
+p1: Pepsi 600毫升/ml
+p1: 208
+p1: 大巧克力脆米棒,
+p1: 7犀 15 元/RMB
+p1: 元/RMB
+p1: 迷你巧克力棒(组合) 374克/g
+p1: 7up 600毫升/ml
+p1: Giant Chocolate Rice Crispy Bar,
+p1: 咩年达大气橙味 15 Mini Chocolate Bar(Combo)
+p1: 元/RMB
+p1: Mirinda Orange Flavor 600毫升/ml
+p1: 大巧克力脆米棒 188
+p1: 元/RMB
+p1: 康师傅涵养泉 10 Giant Chocolate Rice 360克/g
+p1: 元/RMB
+p1: KSF Natural Mineral Water 550毫升/ml Crispy Bar
+p1: 巧克力脆米棒 98
+p1: 元/RMB
+p1: Chocolate Rice Crispy Bar 130克/g
+p1: ZOOTOPIA
+p1: 大甜甜圈 98
+p1: 元/RMB
+p1: SELECTED BEVERAGES
+p1: The Big Donut 230克/g
+p1: 迷你大甜甜圈(三个) 58
+p1: 元/RMB
+p1: The Mini Big Donut (3pcs) 69克/g
+p1: 店长特推
+p1: 迪士尼疯狂动物城 45
+p1: 元/RMB
+p1: RECOMMENDED
+p1: 100克/g
+p1: 爪爪棒冰
+p1: Disney Zootopia Pawpsicle
+p1: 红豆鲷鱼烧串 45
+p1: 元/RMB
+p1: ZOOTOPIA
+p1: Red Bean Taiyaki Skewer
+p1: 3个/pc
+p1: SELECTED FOOD
+p1: *如果您有特殊餐饮需求，请在到达小食亭时主动告知演职人员。
+p1: 所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *Please inform Cast Members of any dietary restrictions on arrival at the kiosk.
+p1: All images and weights are for reference only.All prices are in CNY.
+p1: © DISNEY

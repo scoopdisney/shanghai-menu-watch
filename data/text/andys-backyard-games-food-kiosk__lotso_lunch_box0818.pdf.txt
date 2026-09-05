@@ -1,0 +1,68 @@
+p1: 牛排菇叉烧三明治 85 红豆香草冰淇淋蛋筒 58
+p1: 元/RMB 元/RMB
+p1: Portobello and BBQ
+p1: 200克/g Red Bean and Vanilla 120克/g
+p1: Pork Sandwich
+p1: Ice Cream Cone
+p1: 川味炸鸡配土豆片 95 草莓熊草莓刨冰 68
+p1: 元/RMB 元/RMB
+p1: Sichuan Spicy Chicken 230克/g Lotso Strawberry 580克/g
+p1: with Potato Chips Shaved Ice
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)或550毫升涵养泉10岁生日庆典纪念款
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded), 550ml KSF Natural Mineral Water 10th Birthday Celebration Edition
+p1: *+5元可升级饮料为650毫升 *+10元可升级饮料为354毫升咖啡 *+15元可升级饮料为354毫升拿铁或卡布奇诺
+p1: *+RMB 5 upgrade beverage to 650ml. *+RMB 10 upgrade beverage to 354ml coffee.
+p1: *+RMB 15 upgrade beverage to 354ml caffé latte or cappuccino
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。所有蛋制品均采用非笼养鸡蛋。
+p1: 所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.All egg products are from Cage-Free sources.All images and weights are for reference only.All prices are in CNY.
+p2: 饮料 Beverages
+p2: 葡萄风味冰咖啡 45
+p2: 元/RMB
+p2: 涵养泉10岁生日庆典纪念款 10
+p2: 元/RMB
+p2: Grape Flavored Iced Coffee 473毫升/ml
+p2: KSF Natural Mineral Water 10th Birthday 550毫升/ml
+p2: Celebration Edition
+p2: 杨梅风味冰沙 35
+p2: 元/RMB
+p2: Waxberry Flavored Slush 473毫升/ml
+p2: 各式饮料 20
+p2: 元/RMB
+p2: Assorted Beverages 473毫升/ml
+p2: 拿铁(冷) 35 25
+p2: 元/RMB 元/RMB
+p2: Caffé Latte（Cold） 473毫升/ml 650毫升/ml
+p2: 拿铁（热） 35 茗茶 20
+p2: 元/RMB 元/RMB
+p2: Caffé Latte（hot） 354毫升/ml
+p2: Tea 354毫升/ml
+p2: 卡布奇诺 35
+p2: 喜力啤酒 25
+p2: 元/RMB 元/RMB
+p2: Cappuccino 354毫升/ml
+p2: Heineken Beer 330毫升/ml
+p2: 咖啡(冷) 3O
+p2: 青岛啤酒 25
+p2: 元/RMB
+p2: 元/RMB
+p2: Coffee（Cold） 473毫升/ml
+p2: Tsingtao Beer 330毫升/ml
+p2: *不得向18岁以下游客销售酒类商品。我们将查验购买者的有效身份证件以确认年龄。
+p2: 每单至多购买2杯。
+p2: 咖啡（热） 3O
+p2: 元/RMB *The sale of alcoholic beverages to Guests under18 years old is prohibited
+p2: by law.We will check valid ID credentials to confirm age.
+p2: Coffee（hot） 354毫升/ml
+p2: Maximum two cups per transaction.
+p2: *购买任意套餐升级特色饮料立减10元 *Upgrade to a specialty drink get RMB 10 off with the purchase of any combo meal
+p2: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)或550毫升涵养泉10岁生日庆典纪念款
+p2: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded), 550ml KSF Natural Mineral Water 10th Birthday Celebration Edition
+p2: *+5元可升级饮料为650毫升 *+10元可升级饮料为354毫升咖啡 *+15元可升级饮料为354毫升拿铁或卡布奇诺
+p2: *+RMB 5 upgrade beverage to 650ml. *+RMB 10 upgrade beverage to 354ml coffee.
+p2: *+RMB 15 upgrade beverage to 354ml caffé latte or cappuccino
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。所有蛋制品均采用非笼养鸡蛋。
+p2: 所有图片和重量仅供参考。所有价格以人民币计算。
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p2: We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.All egg products are from Cage-Free sources.All images and weights are for reference only.All prices are in CNY.

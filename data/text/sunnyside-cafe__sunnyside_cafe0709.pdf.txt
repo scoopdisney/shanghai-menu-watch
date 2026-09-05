@@ -1,0 +1,125 @@
+p1: 小食
+p1: Side Dish
+p1: 精选套餐
+p1: Combo Menu 春卷 30
+p1: 元/RMB
+p1: Pork and Vegetable Spring Rolls 220克/g
+p1: 草莓熊包 30
+p1: 元/RMB
+p1: 鲜虾五花肉砂锅饭 108 Lotso Bun 100克/g
+p1: 元/RMB
+p1: Wok-fried Shrimp and Pork Belly 470克/g
+p1: with Rice in Clay Pot 上海小笼包 30
+p1: 元/RMB
+p1: Steamed Pork Dumpling 125克/g
+p1: 咖喱牛肉 108
+p1: 元/RMB
+p1: Braised Beef with Curry Sauce 570克/g
+p1: 菌菇盖浇伊面 88
+p1: 元/RMB
+p1: E-Fu Noodles with Mushroom 500克/g
+p1: 咸肉菜饭配炸猪排 108
+p1: 元/RMB
+p1: Deep-fried Pork Chop with 420克/g
+p1: Salted Meat and Vegetable Rice
+p1: 番茄肉丸配意大利面 98
+p1: 元/RMB
+p1: Tomato Meatball with Spaghetti 500克/g
+p1: 汤与甜品
+p1: 菠萝虾仁炒饭
+p1: 98
+p1: 元/RMB Soup & Dessert
+p1: Shrimp and Pineapple Fried Rice 350克/g
+p1: 虾仁瑶柱炒饭配猪颈肉 108
+p1: 元/RMB 香菇炖鸡 20
+p1: 元 / RM B
+p1: Fried Rice with Shrimp & Dried 470克/g Chicken Soup with Black Mushroom 25 0 克 /g
+p1: Scallop and Soy Grilled Pork Neck
+p1: 玉米胡萝卜炖排骨
+p1: 海鲜叻沙 109 20
+p1: 元/RMB
+p1: 元/RMB Pork Rib Soup with Corn and Carrot 250克/g
+p1: Seafood Laksa 600克/g
+p1: 丝瓜蛋白炒虾仁饭 108 青柠风味菠萝凉粉 40
+p1: 元/RMB 元/RMB
+p1: 250克/g
+p1: Stir-fried Luffa Shrimp 470克/g Lime Flavored White Jelly
+p1: and Egg White with Rice with Pineapple
+p1: 78
+p1: 草莓熊鸡蛋仔配香草冰淇淋 元/RMB
+p1: Lotso Bubble Waffle with 250克/g
+p1: Vanilla Ice Cream
+p1: 儿童套餐
+p1: Kids’ Meal
+p1: *套餐包含一瓶康师傅或百事瓶装饮料+38元可将套餐内瓶装 鸡肉面 55
+p1: 元 / RM B
+p1: 饮品升级为鲜榨橙汁/苹果汁/菠萝汁
+p1: Chicken Noodle Soup 35 0 克 /g
+p1: (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)(cid:19)(cid:18)(cid:26)(cid:17)(cid:26)(cid:27)(cid:29)(cid:16)(cid:16)(cid:22)(cid:19)(cid:26)(cid:29)(cid:15)(cid:26)(cid:14)(cid:13)(cid:12)(cid:26)(cid:29)(cid:11)(cid:26)(cid:10)(cid:19)(cid:9)(cid:18)(cid:25)(cid:26)(cid:27)(cid:19)(cid:8)(cid:19)(cid:11)(cid:17)(cid:7)(cid:19)(cid:6)(cid:26)(cid:5)(cid:20)(cid:20)(cid:26)(cid:4)(cid:3)(cid:2)(cid:26)(cid:1)(cid:127)(cid:26)(cid:16)(cid:29)(cid:26)
+p1: (cid:21)(cid:9)(cid:7)(cid:11)(cid:17)(cid:20)(cid:19)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:27)(cid:29)(cid:16)(cid:16)(cid:22)(cid:19)(cid:20)(cid:26)(cid:20)(cid:11)(cid:25)(cid:24)(cid:141)(cid:26)(cid:25)(cid:24)(cid:26)(cid:23)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:16)(cid:29)
+p1: (cid:12)(cid:11)(cid:19)(cid:18)(cid:129)(cid:26)(cid:143)(cid:11)(cid:17)(cid:24)(cid:7)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)(cid:157)(cid:5)(cid:9)(cid:9)(cid:22)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)(cid:157)(cid:10)(cid:25)(cid:24)(cid:19)(cid:17)(cid:9)(cid:9)(cid:22)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)
+p1: *所有蛋制品均采用非笼养鸡蛋。
+p1: (cid:31)(cid:5)(cid:22)(cid:22)(cid:26)(cid:28)(cid:19)(cid:24)(cid:21)(cid:26)(cid:25)(cid:16)(cid:19)(cid:28)(cid:18)(cid:26)(cid:23)(cid:29)(cid:24)(cid:16)(cid:17)(cid:25)(cid:24)(cid:25)(cid:24)(cid:7)(cid:26)(cid:19)(cid:7)(cid:7)(cid:18)(cid:26)(cid:17)(cid:11)(cid:19)(cid:26)(cid:15)(cid:11)(cid:29)(cid:28)(cid:26)(cid:30)(cid:17)(cid:7)(cid:19)€(cid:12)(cid:11)(cid:19)(cid:19)(cid:26)(cid:18)(cid:29)(cid:21)(cid:11)(cid:23)(cid:19)(cid:18)(cid:6)
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p1: (cid:31)(cid:10)(cid:22)(cid:19)(cid:17)(cid:18)(cid:19)(cid:26)(cid:25)(cid:24)(cid:15)(cid:29)(cid:11)(cid:28)(cid:26)(cid:30)(cid:17)(cid:18)(cid:16)(cid:26)(cid:3)(cid:19)(cid:28)(cid:27)(cid:19)(cid:11)(cid:18)(cid:26)(cid:29)(cid:15)(cid:26)(cid:17)(cid:24) (cid:26)(cid:20)(cid:25)(cid:19)(cid:16)(cid:17)(cid:11) (cid:26)(cid:11)(cid:19)(cid:18)(cid:16)(cid:11)(cid:25)(cid:23)(cid:16)(cid:25)(cid:29)(cid:24)(cid:18)(cid:26) (cid:129)(cid:19)(cid:24)(cid:26)(cid:17)(cid:11)(cid:11)(cid:25)(cid:8)(cid:25)(cid:24)(cid:7)(cid:26)(cid:17)(cid:16)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:11)(cid:19)(cid:18)(cid:16)(cid:17)(cid:21)(cid:11)(cid:17)(cid:24)(cid:16)(cid:6)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。
+p1: (cid:31)‚(cid:19)(cid:26)(cid:28)(cid:17) (cid:26)(cid:18)(cid:21)(cid:27)(cid:18)(cid:16)(cid:25)(cid:16)(cid:21)(cid:16)(cid:19)(cid:26)(cid:20)(cid:25)ƒ(cid:19)(cid:11)(cid:19)(cid:24)(cid:16)(cid:26)(cid:8)(cid:19)(cid:7)(cid:19)(cid:16)(cid:17)(cid:27)(cid:22)(cid:19)(cid:18)(cid:26)(cid:25)(cid:24)(cid:26)(cid:17)(cid:24) (cid:26)(cid:23)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:28)(cid:19)(cid:17)(cid:22)(cid:26) (cid:25)(cid:16)(cid:129)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:23)(cid:129)(cid:17)(cid:24)(cid:7)(cid:19)(cid:26)(cid:29)(cid:15)(cid:26)(cid:18)(cid:19)(cid:17)(cid:18)(cid:29)(cid:24)(cid:18)(cid:6)
+p1: „(cid:129)(cid:17)(cid:24)(cid:141)(cid:26) (cid:29)(cid:21)(cid:26)(cid:15)(cid:29)(cid:11)(cid:26) (cid:29)(cid:21)(cid:11)(cid:26)(cid:21)(cid:24)(cid:20)(cid:19)(cid:11)(cid:18)(cid:16)(cid:17)(cid:24)(cid:20)(cid:25)(cid:24)(cid:7)(cid:6)
+p2: 精选套餐
+p2: Combo Menu
+p2: 中式家庭套餐
+p2: Chinese Family Feast
+p2: 酱香牛肉/80克/g 凉瓜豆豉炒牛肉/400克/g
+p2: Braised Beef with Soy Sauce Wok-fried Beef and Bitter Melon
+p2: with Fermented Black Beans Sauce
+p2: 桂花糖藕/80克/g 浓汤鱼豆腐煮丝瓜/350克/g
+p2: Lotus Root with Osmanthus Syrup Braised Fish Gluten and Luffa
+p2: 酱黄瓜/80克/g 金汤黄瓜烩虾滑/350克/g
+p2: Cucumber with Sweet Soy Sauce Stir-fried Shrimp Paste
+p2: and Cucumber with Chili Sour Sauce
+p2: 冬瓜排骨汤/10克/g 米饭/800克/g
+p2: Pork Rib and Winter Melon Soup Steamed Rice
+p2: 408
+p2: 元/RMB
+p2: 阳光食汇
+p2: Sunnyside Café
+p2: 精选套餐
+p2: 虾仁蟹肉面套餐 Combo Menu
+p2: Shrimp and Crab Meat Noodles Combo
+p2: 虾仁蟹肉/200克/g
+p2: Shrimp and Crab Meat
+p2: 西式家庭套餐
+p2: 南瓜手工面/550克/g
+p2: Western Family Feast
+p2: Pumpkin Handmade Noodles
+p2: 蒸蛋/50克/g
+p2: Steamed Egg 鸡肉生菜藜麦色拉/225克/g 奶油南瓜汤/10克/g
+p2: Chicken with Lettuce and Quinoa Salad Pumpkin Cream Soup
+p2: 青菜/50克/g
+p2: Bok Choy
+p2: 烤牛排/100克/g 烤节瓜/200克/g
+p2: 奶黄包/50克/g Grilled Beef Striploin Grilled Zucchini
+p2: Custard Bun
+p2: 迷迭香 柠 檬 猪 颈 肉 / 180克/g 樱桃 番 茄 / 1 0 0 克/g
+p2: 爽脆花菜梗/50克/g
+p2: G rill ed Por k N ec k Ch erry To m a t o
+p2: Pickled Cauliflower
+p2: with Lemon and Rosemary
+p2: 蒜香油焖鸭腿/350克/g 玉米/160克/g
+p2: 118
+p2: 元/RMB Braised Duck Leg with Garlic Corn
+p2: 椰香咖喱虾配面包/360克/g 米饭/800克/g
+p2: Coconut Curry Shrimp with Bread Steamed Rice
+p2: 408
+p2: *套餐包含一瓶康师傅或百事瓶装饮料+38元可将套餐内瓶装 元/RMB
+p2: 饮品升级为鲜榨橙汁/苹果汁/菠萝汁
+p2: (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)(cid:19)(cid:18)(cid:26)(cid:17)(cid:26)(cid:27)(cid:29)(cid:16)(cid:16)(cid:22)(cid:19)(cid:26)(cid:29)(cid:15)(cid:26)(cid:14)(cid:13)(cid:12)(cid:26)(cid:29)(cid:11)(cid:26)(cid:10)(cid:19)(cid:9)(cid:18)(cid:25)(cid:26)(cid:27)(cid:19)(cid:8)(cid:19)(cid:11)(cid:17)(cid:7)(cid:19)(cid:6)(cid:26)(cid:5)(cid:20)(cid:20)(cid:26)(cid:4)(cid:3)(cid:2)(cid:26)(cid:1)(cid:127)(cid:26)(cid:16)(cid:29)(cid:26)
+p2: (cid:21)(cid:9)(cid:7)(cid:11)(cid:17)(cid:20)(cid:19)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:27)(cid:29)(cid:16)(cid:16)(cid:22)(cid:19)(cid:20)(cid:26)(cid:20)(cid:11)(cid:25)(cid:24)(cid:141)(cid:26)(cid:25)(cid:24)(cid:26)(cid:23)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:16)(cid:29)
+p2: (cid:12)(cid:11)(cid:19)(cid:18)(cid:129)(cid:26)(cid:143)(cid:11)(cid:17)(cid:24)(cid:7)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)(cid:157)(cid:5)(cid:9)(cid:9)(cid:22)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)(cid:157)(cid:10)(cid:25)(cid:24)(cid:19)(cid:17)(cid:9)(cid:9)(cid:22)(cid:19)(cid:26)(cid:144)(cid:21)(cid:25)(cid:23)(cid:19)
+p2: *所有蛋制品均采用非笼养鸡蛋。
+p2: (cid:31)(cid:5)(cid:22)(cid:22)(cid:26)(cid:28)(cid:19)(cid:24)(cid:21)(cid:26)(cid:25)(cid:16)(cid:19)(cid:28)(cid:18)(cid:26)(cid:23)(cid:29)(cid:24)(cid:16)(cid:17)(cid:25)(cid:24)(cid:25)(cid:24)(cid:7)(cid:26)(cid:19)(cid:7)(cid:7)(cid:18)(cid:26)(cid:17)(cid:11)(cid:19)(cid:26)(cid:15)(cid:11)(cid:29)(cid:28)(cid:26)(cid:30)(cid:17)(cid:7)(cid:19)€(cid:12)(cid:11)(cid:19)(cid:19)(cid:26)(cid:18)(cid:29)(cid:21)(cid:11)(cid:23)(cid:19)(cid:18)(cid:6)
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p2: (cid:31)(cid:10)(cid:22)(cid:19)(cid:17)(cid:18)(cid:19)(cid:26)(cid:25)(cid:24)(cid:15)(cid:29)(cid:11)(cid:28)(cid:26)(cid:30)(cid:17)(cid:18)(cid:16)(cid:26)(cid:3)(cid:19)(cid:28)(cid:27)(cid:19)(cid:11)(cid:18)(cid:26)(cid:29)(cid:15)(cid:26)(cid:17)(cid:24) (cid:26)(cid:20)(cid:25)(cid:19)(cid:16)(cid:17)(cid:11) (cid:26)(cid:11)(cid:19)(cid:18)(cid:16)(cid:11)(cid:25)(cid:23)(cid:16)(cid:25)(cid:29)(cid:24)(cid:18)(cid:26) (cid:129)(cid:19)(cid:24)(cid:26)(cid:17)(cid:11)(cid:11)(cid:25)(cid:8)(cid:25)(cid:24)(cid:7)(cid:26)(cid:17)(cid:16)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:11)(cid:19)(cid:18)(cid:16)(cid:17)(cid:21)(cid:11)(cid:17)(cid:24)(cid:16)(cid:6)
+p2: *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。
+p2: (cid:31)‚(cid:19)(cid:26)(cid:28)(cid:17) (cid:26)(cid:18)(cid:21)(cid:27)(cid:18)(cid:16)(cid:25)(cid:16)(cid:21)(cid:16)(cid:19)(cid:26)(cid:20)(cid:25)ƒ(cid:19)(cid:11)(cid:19)(cid:24)(cid:16)(cid:26)(cid:8)(cid:19)(cid:7)(cid:19)(cid:16)(cid:17)(cid:27)(cid:22)(cid:19)(cid:18)(cid:26)(cid:25)(cid:24)(cid:26)(cid:17)(cid:24) (cid:26)(cid:23)(cid:29)(cid:28)(cid:27)(cid:29)(cid:26)(cid:28)(cid:19)(cid:17)(cid:22)(cid:26) (cid:25)(cid:16)(cid:129)(cid:26)(cid:16)(cid:129)(cid:19)(cid:26)(cid:23)(cid:129)(cid:17)(cid:24)(cid:7)(cid:19)(cid:26)(cid:29)(cid:15)(cid:26)(cid:18)(cid:19)(cid:17)(cid:18)(cid:29)(cid:24)(cid:18)(cid:6)
+p2: „(cid:129)(cid:17)(cid:24)(cid:141)(cid:26) (cid:29)(cid:21)(cid:26)(cid:15)(cid:29)(cid:11)(cid:26) (cid:29)(cid:21)(cid:11)(cid:26)(cid:21)(cid:24)(cid:20)(cid:19)(cid:11)(cid:18)(cid:16)(cid:17)(cid:24)(cid:20)(cid:25)(cid:24)(cid:7)(cid:6)

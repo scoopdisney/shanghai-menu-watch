@@ -1,0 +1,221 @@
+p1: 咸鸡腿海鲜滑蛋
+p1: 米线配番茄汤
+p1: Salted Chicken Leg and
+p1: Seafood & Scramble Egg
+p1: Rice Noodles with Tomato Soup
+p1: 牛肉咸鸡腿
+p1: 米线配番茄汤
+p1: Beef and Salted Chicken Leg
+p1: Rice Noodles with Tomato Soup
+p1: 119
+p1: 元/RMB 950克/g
+p1: 牛肉海鲜滑蛋
+p1: 米线配番茄汤
+p1: Beef and Seafood & Scramble Egg
+p1: Rice Noodles with Tomato Soup
+p1: 119
+p1: 元/RMB 950克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 150克/g
+p1: 元/RMB 850克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 亚
+p2: 洲
+p2: 美食之旅
+p2: Flavorful Journey
+p2: A
+p2: THROUGH ASIA
+p2: 亚洲精选
+p2: ASIAN SELECTION
+p2: 椰香咖喱鸡面 海鲜叻沙 番茄和牛肉丸配意大利面
+p2: Seafood Laksa Tomato Wagyu Beef Meatball with
+p2: Coconut Curry
+p2: Spaghetti
+p2: Chicken Noodles 109
+p2: 119
+p2: 109 600克/g
+p2: 58800克/g 600克/g
+p2: 299
+p2: 1600克/g
+p2: SSSS 海海海
+p2: pppp
+p2: iiiiccccyyyy 鲜鲜鲜
+p2: KKKK 辣辣辣 炸鸡腿配姜黄饭 宫保鸡肉虾球配香肠饭 大虾牛肉麻辣烫
+p2: NNNN iiii 泡泡泡
+p2: ooooooddddllll mmmm cccc 菜菜菜
+p2: hhhh iiii 锅锅锅
+p2: eeee SSSS DD D e e p - fr i e d S p i c e d Chicken Thigh GG G o n g B a o C h i c k e n w i th （ 汤 底 可 选 辣 汤 或 番 茄 汤 ）
+p2: ssss SSSStttt eeeeaaaa ffffoooooo
+p2: eeee wwww dddd
+p2: ww w it h T u r m e r ic R i c e SS Sh r i m p a n d S a u s a g e R ice " Ma L a T an g" "" N o od le Soup
+p2: 米奇好伙伴主厨推荐双人餐 with Prawn and Beef
+p2: 109 109
+p2: Recommendation
+p2: & Pals Chef Feast (Choice of Spicy Soup or Tomato Soup)
+p2: Mickey for 580克/g 480克/g
+p2: 2
+p2: 99
+p2: 980克/g
+p2: 餐
+p2: 套
+p2: 童
+p2: 儿
+p2: MEAL
+p2: KIDS'
+p2: * 套 餐 含 1 杯 4 7 3 毫 升 无 酒 精 冷 饮 ( 特 色 饮 料 除 外 )。
+p2: + 1 0 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 咖 啡 ( 冷 ) ( 4 7 3 毫 升 ) 或 咖 啡 ( 热 ) ( 3 5 4 毫 升 )。
+p2: + 1 5 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 拿 铁 ( 冷 ) ( 4 7 3 毫 升 ) 或 拿 铁 ( 热 ) ( 3 5 4 毫 升 ) 或 卡 布 奇 诺 ( 3 5 4 毫 升 )。
+p2: + 3 5 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 摩 卡 ( 冷 ) ( 4 7 3 毫 升 ) 或 摩 卡 ( 热 ) ( 3 5 4 毫 升 )。
+p2: 番茄牛腩配米饭
+p2: *Combo includes one 473ml non-alcoholic cold beverage (Specialty Drinks Excluded).
+p2: 含奇奇蒂蒂小食盒
+p2: Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee(Cold)(473ml) or Coffee(Hot)(354ml).
+p2: Add RMB 15 to upgrade beverage (473ml) in the combo to Caffé Latte(Cold)(473ml) or Caffé Latte(Hot)(354ml) or Cappuccino (354ml).
+p2: Tomato Beef Brisket & Steamed Rice
+p2: Add RMB 35 to upgrade beverage(473ml) in the combo to Mocha(Cold)(473ml) or Mocha(Hot)(354ml).
+p2: with Chip 'n' Dale Snack Box
+p2: 198
+p2: 配菜
+p2: SIDE DISH
+p2: 270克/g
+p2: 含)
+p2: (
+p2: 岁 3
+p2: 周 ed
+p2: g
+p2: 龄 3 a
+p2: re n
+p2: 年 d ) 酥酥 酥 脆 藕 盒 五五 五 香 肉 卷 酥酥 酥 脆 花 菜
+p2: 于 童 il iv e
+p2: 用 儿 c h s
+p2: 的 to lu
+p2: 适 s in c DD D e e p - fr i e d Lotus Root DD D e e p - f r i e d P o rk Roll FF F r i e d C a u l if l o w er
+p2: 餐 含 ) e
+p2: p li th
+p2: 套 岁 ( p b o ww w i t h P o r k ww w i t h F i v e S p ic e ww w i t h G o c h u j a n g
+p2: 童 a (
+p2: 儿 周 n u ld
+p2: 1 e o
+p2: * 1 m r s 44 4 5 44 4 5 44 4 0
+p2: 至 's e a
+p2: i d y
+p2: K 1 1
+p2: * to
+p2: 11 1 50 克 / g 11 150 克 / g 11 1 2 0 克 / g
+p2: *包含一盒190毫升蒙牛未来星牛奶
+p2: 或一杯250毫升无酒精冷饮(特色饮料除外)
+p2: 或一瓶350毫升康师傅涵养泉及苹果泥一份
+p2: *Includes a 190ml Mengniu Future Star Milk
+p2: or a 250ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p2: or 350ml KSF Natural Mineral Water and Apple Puree
+p2: 甜品
+p2: DESSERTS
+p2: 椰香马蹄蒸糕 米奇蜂巢蛋糕
+p2: 米奇酒酿布丁 黄油年糕
+p2: Mickey Honeycomb Cake
+p2: Mickey Fermented Rice Pudding Butter Rice Cake Coconut Water Chestnut
+p2: Steamed Cake
+p2: 40 40 35
+p2: 30
+p2: 180克/g 160克/g 90克/g
+p2: 80克/g
+p2: *所有蛋制品均采用非笼养鸡蛋。 *所有价格以人民币计算。所有图片和重量仅供参考
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。 *All egg products are from Cage-Free sources. *All prices *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解 are in CNY. All images and weights are for reference only
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant
+p2: *We may substitute different kinds of vegetables in any combo meal with the change in seasons
+p2: Thank you for your understanding
+p2: © DISNEY
+p3: 亚
+p3: 洲
+p3: 美食之旅
+p3: Flavorful Journey
+p3: A
+p3: THROUGH ASIA
+p3: 饮品
+p3: BEVERAGES
+p3: 套餐专属升级享更多优惠
+p3: Exclusive Package Upgrade with Extra Discounts
+p3: 泰式云朵奶茶
+p3: 百香果菠萝风味冰咖啡
+p3: Thai Flavored Milk Tea
+p3: Passionfruit & Pineapple Flavored
+p3: 45
+p3: Iced Coffee
+p3: 473毫升/ml
+p3: 45
+p3: 473毫升/ml
+p3: 迈泰
+p3: Mai Tai
+p3: 68
+p3: 350毫升/ml 香茅柠檬茶
+p3: *根据法律规定，不得向18岁以下游客销售酒类商品 Lemongrass Lemon Tea
+p3: 我们将*T查he验 s购ale买 o者f a的lco有ho效lic身 b份ev证era件ge以s 确to 认gu年es龄ts
+p3: 40
+p3: under 18 years old is prohibited by law
+p3: We will check valid ID credentials to confirm age
+p3: 473毫升/ml
+p3: 咖啡(热/冷) 30 20
+p3: 各式饮料
+p3: Coffee(Hot/Cold) 354毫升/ml (热 Hot) 473毫升/ml
+p3: Assorted Beverages
+p3: 473毫升/ml (冷 Cold)
+p3: 25
+p3: 拿铁(热/冷) 35
+p3: 650毫升/ml
+p3: CafféLatte(Hot/Cold) 354毫升/ml (热 Hot)
+p3: 473毫升/ml (冷 Cold) 喜力啤酒 25
+p3: Heineken Beer 330毫升/ml
+p3: 35
+p3: 卡布奇诺
+p3: 354毫升/ml
+p3: Cappuccino
+p3: 青岛啤酒
+p3: 25
+p3: Tsingtao Beer
+p3: 330毫升/ml
+p3: 摩卡(热/冷) 45
+p3: Mocha(Hot/Cold) 354毫升/ml (热 Hot) *根据法律规定，不得向18岁以下游客销售酒类商品。 我们将查验购买者的有效身份证件以确认年龄。
+p3: 每*Th单e 至sa多le 购of 买alc2o杯ho。lic
+p3: 473毫升/ml (冷 Cold) beverages to Guests under 18 years old is prohibited by law.
+p3: We will check valid ID credentials to confirm age.Maximum two cups per transaction.
+p3: 茗茶 20
+p3: 儿童餐
+p3: Tea 354毫升/ml KIDS' MEAL
+p3: 素食 番茄牛腩配米饭 55
+p3: VEGETARIAN MEAL
+p3: Tomato Beef Brisket with Rice
+p3: 270克/g
+p3: *包含一盒190毫升蒙牛未来星牛奶或一杯250毫升无酒精冷饮(特色饮料除外)
+p3: 卤豆腐素食拌饭 89
+p3: 或一瓶350毫升康师傅涵养泉及苹果泥一份
+p3: *Includes a 190ml Mengniu Future Star Milk or a 250ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p3: Braised Tofu Vegetarian
+p3: 480克/g or 350ml KSF Natural Mineral Water and Apple Puree
+p3: Bibimbap Rice Bowl
+p3: **K儿id童's m套e餐nu适 ap用p于lie年s to龄 c3hi周ldr岁en( 含ag)e至d 31 1to周 11岁 y(e含ar)s 的old儿 (b童oth
+p3: inclusive)
+p3: 配餐
+p3: SIDE DISH
+p3: 葱油芋艿 30 新鲜西瓜杯 25
+p3: Stewed Taro with Scallion Oil Fresh Watermelon Cup
+p3: 150克/g 220克/g
+p3: 清炒西兰花配芝麻酱 米饭
+p3: 30 5
+p3: Stir-fried Broccoli with Sesame Sauce 120克/g Rice 250克/g
+p3: *所有蛋制品均采用非笼养鸡蛋。 *所有价格以人民币计算。所有图片和重量仅供参考
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。 *All egg products are from Cage-Free sources. *All prices *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解 are in CNY. All images and weights are for reference only
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant
+p3: *We may substitute different kinds of vegetables in any combo meal with the change in seasons
+p3: Thank you for your understanding
+p3: © DISNEY

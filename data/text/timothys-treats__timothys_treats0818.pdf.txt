@@ -1,0 +1,45 @@
+p1: 提摩太小吃
+p1: Timothy’s Treats
+p1: 荐
+p1: 推
+p1: Recommended
+p1: 美式芝士热狗套餐 京酱牛肉芝士热狗套餐
+p1: American Cheese Hot Dog Combo Beef Cheese Hot Dog with Sweet Soybean Sauce Combo
+p1: 80 85
+p1: 元/RMB/130克/g 元/RMB/180克/g
+p1: *套餐内可选饮料：
+p1: 百事可乐10岁生日庆典纪念款或康师傅冰红茶10岁生日庆典纪念款
+p1: *Combo includes a bottle of Pepsi 10th Birthday Celebration Edition or KSF Ice Tea 10th Birthday Celebration Pal Edition
+p1: 涵养泉10岁生日庆典纪念款
+p1: 10 咖啡 30
+p1: 元/RMB 元/RMB
+p1: KSF Natural Mineral Water
+p1: (冷)473毫升/ml
+p1: 10th Birthday Celebration Edition 550毫升/ml Coffee
+p1: (热)354毫升/ml
+p1: 15
+p1: 百事可乐10岁生日庆典纪念款 拿铁 35
+p1: 元/RMB
+p1: 元/RMB
+p1: Pepsi 10th Birthday Celebration Edition 600毫升/ml
+p1: Caffé Latte (冷)473毫升/ml
+p1: (热)354毫升/ml
+p1: 15
+p1: 佳得乐蓝莓味 元/RMB
+p1: 卡布奇诺 35
+p1: 元/RMB
+p1: Gatorade Blueberry 600毫升/ml
+p1: (冷)473毫升/ml
+p1: Cappuccino
+p1: (热)354毫升/ml
+p1: 康师傅冰红茶10岁生日庆典纪念款 15
+p1: 元/RMB
+p1: 葡萄风味冰咖啡 45
+p1: KSF Ice Tea 10th Birthday Celebration Pal Edition 500毫升/ml
+p1: 元/RMB
+p1: Grape Flavored Iced Coffee 473毫升/ml
+p1: *所有蛋制品均采用非笼养鸡蛋。*All
+p1: egg products are from Cage-Free sources.
+p1: *如果您有特殊餐饮需求，请在到达小食亭时主动告知演职人员。*Please inform Cast Members of any dietary restrictions on arrival at the kiosk.
+p1: *所有图片和重量仅供参考 *All images and weights are for reference only *所有价格以人民币计算 *All prices are in CNY
+p1: © DISNEY

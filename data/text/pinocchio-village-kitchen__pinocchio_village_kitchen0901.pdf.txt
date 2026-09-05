@@ -1,0 +1,179 @@
+p1: 猪手咸鸡腿
+p1: 鸡蛋鲜面配牛肉汤
+p1: Pork Trotters and
+p1: Salted Chicken Leg
+p1: Fresh Egg Noodles with Beef Soup
+p1: 猪手熏鱼
+p1: 鸡蛋鲜面配牛肉汤
+p1: Pork Trotters and Crispy Fried Fish
+p1: Fresh Egg Noodles with Beef Soup
+p1: 119
+p1: 元/RMB 950克/g
+p1: 熏鱼咸鸡腿
+p1: 鸡蛋鲜面配牛肉汤
+p1: Crispy Fried Fish and Salted Chicken Leg
+p1: Fresh Egg Noodles with Beef Soup
+p1: 119
+p1: 元/RMB 890克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 150克/g
+p1: 元/RMB 950克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 味饭面
+p2: 美
+p2: RICE AND NOODLES
+p2: 5
+p2: +
+p2: 元
+p2: 升
+p2: 5 0 毫 奶 油 培 根 乌 冬 面 9 9 辣 味 海 鲜 面 1 1 9
+p2: 为 6 ml
+p2: M MEN 饮 料 o 650
+p2: O D 级 era ge t
+p2: C 升 b ev U do n Car bo na ra 450 克 /g S pi cy Se afo od Noodles 40 0 克 /g
+p2: 厨 A gra de
+p2: E Up
+p2: R主 T
+p2: Excluded
+p2: I
+p2: O Kids’ Meals
+p2: S 荐 儿童套餐除外
+p2: N
+p2: ' 推
+p2: F
+p2: E
+p2: H
+p2: C
+p2: OM MEND
+p2: C 厨 A
+p2: 299 E T
+p2: R 主
+p2: 故乡的欢聚美味 I
+p2: S 荐 O
+p2: N
+p2: 'F 推
+p2: E
+p2: A Journey Home Feast H
+p2: 1040克/g C
+p2: 猪排，意大利面，肉酱，青菜，樱桃番茄，青柠，披萨饼底，鸡肉，马苏里拉芝士，番茄酱，照烧酱，蛋黄酱，
+p2: 木鱼花，海苔粉，面粉，黄油，鸡蛋，奶油，开心果，草莓干，草莓酱，巧克力，巧克力粉，糖粉，香草
+p2: 火鸡腿配腊味炒饭 119 米兰式战斧猪排 169 鲍鱼叉烧炒饭 109
+p2: Pork Chop, Pasta, Meat Sauce, Bok Choy, Cherry Tomato, Lime, Pizza Dough, Chicken, Mozzarella,
+p2: Turkey Leg with 680克/g Pork Tomahawk Milanese 680克/g Abalone Char Siu Fried Rice 430克/g
+p2: Tomato Sauce, Teriyaki Sauce, Mayonnaise, Bonito Flake, Seaweed Powder, Flour, Butter, Egg, Cream, Pistachio,
+p2: Sausage Fried Rice
+p2: Dried Strawberry, Strawberry Sauce, Chocolate, Chocolate Powder, Icing Sugar, Vanilla
+p2: 烤披萨
+p2: 现
+p2: FRESHLY MADE PIZZAS
+p2: M
+p2: OM END
+p2: C 厨 A
+p2: E
+p2: R 主 T
+p2: I
+p2: S 荐 O
+p2: N
+p2: 'F 推
+p2: E 烤鸭披萨
+p2: H
+p2: C
+p2: Roasted Duck
+p2: Pizza
+p2: 109
+p2: 109
+p2: 小熊维尼火腿菠萝披萨 109 照烧鸡肉披萨 烤牛肉披萨 119
+p2: Winnie the Pooh 350克/g Teriyaki Chicken Pizza 450克/g BBQ Beef Brisket Pizza 350克/g 450克/g
+p2: Ham and Pineapple Pizza
+p2: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外) +10元可将套餐内饮料(473毫升)升级为咖啡(冷)(473毫升)或咖啡(热)(354毫升) +15元可将套餐内饮料(473毫升)升级为拿铁(冷)(473毫升)或拿铁(热)(354毫升)或卡布奇诺(354毫升)
+p2: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)*Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee(Cold)(473ml) or Coffee(Hot)(354ml)
+p2: *Add RMB 15 to upgrade beverage (473ml) in the combo to Caffé Latte(Cold)(473ml) or Caffé Latte(Hot)(354ml) or Cappuccino (354ml)
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。*所有蛋制品均采用非笼养鸡蛋 *所有图片和重量仅供参考 *所有价格以人民币计算
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant. *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p2: *All egg products are from Cage-Free sources. *All images and weights are for reference only. *All prices are in CNY ©DISNEY Based on the “Winnie the Pooh” works, by A.A. Milne and E.H. Shepard
+p3: 精 选 配 餐 甜 品
+p3: SIDE DISHS DESSERTS
+p3: 米饭 5 25
+p3: 新鲜西瓜杯
+p3: Rice 250克/g Fresh Watermelon Cup 220克/g
+p3: 焗鸡柳 50 小木偶的甜蜜惊喜：意式奶油面包 45
+p3: 焗
+p3: Baked Chicken Tender Little Puppet's Sweet Treat：
+p3: 120克/g 120克/g
+p3: 'Maritozzi' Italian Cream Buns
+p3: 辣味花生酱牛肉肠粉 35
+p3: 45
+p3: 向日葵时钟花园：花盆巧克力杯
+p3: Spicy Peanut Sauce Rice Noodles Roll with Beef
+p3: 120克/g
+p3: Sunflower Clock Garden： 80克/g
+p3: 黑松露红薯条 45 Flower Pot Chocolate Cup
+p3: Truffle Sweet Potato Fries
+p3: 58
+p3: 150克/g 诚实者的奖励：意式冰乳曲奇杯
+p3: True Heart's Reward： 160克/g
+p3: 清炒西兰花配蒜蓉汁 30
+p3: Italian Soft Ice Cream Cookie Cup
+p3: Stir-fried Broccoli with Garlic Sauce
+p3: 150克/g
+p3: 50
+p3: 提拉米苏
+p3: 葱油芋艿 30
+p3: 75克/g
+p3: Stewed Taro with Scallion Oil Tiramisu
+p3: 150克/g
+p3: 饮 品 儿 童 套 餐
+p3: BEVERAGES KIDS' MEALS
+p3: 各式饮料
+p3: Assorted Beverages
+p3: 20/25 *儿童套餐适用于年龄3周岁(含)至11周岁(含)的儿童
+p3: *Kid's menu applies to children aged 3 to 11 years old (both inclusive)
+p3: 473/650毫升/ml
+p3: 番茄牛腩配米饭 55
+p3: 20
+p3: 茗茶 Tea
+p3: Tomato Beef Brisket with Rice
+p3: 270克/g
+p3: 354毫升/ml
+p3: 30 *包含一盒190毫升蒙牛未来星牛奶或一杯250毫升无酒精冷饮(特色饮料除外)
+p3: 咖啡
+p3: Coffee 或一瓶350毫升康师傅涵养泉及苹果泥一份
+p3: （热/Hot）354毫升/ml *Includes a 190ml Mengniu Future Star Milk or a 250ml non-alcoholic cold beverage (Specialty Drinks Excluded)
+p3: or 350ml KSF Natural Mineral Water and Apple Puree
+p3: （冷/Cold）473毫升/ml
+p3: 35
+p3: 拿铁 Caffé Latte
+p3: （热/Hot）354毫升/ml 素 食
+p3: （冷/Cold）473毫升/ml
+p3: 卡布奇诺 Cappuccino 35
+p3: VEGETARIAN MEAL
+p3: （热/Hot）354毫升/ml 89
+p3: 素食披萨
+p3: 40
+p3: 珍珠奶茶 Bubble Milk Tea 380克/g
+p3: Vegetarian Pizza
+p3: 354毫升/ml
+p3: 青岛/喜力啤酒 25
+p3: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p3: +10元可将套餐内饮料(473毫升)升级为咖啡(冷)(473毫升)或咖啡(热)(354毫升)
+p3: Tsingtao/Heineken Beer 330毫升/ml
+p3: +15元可将套餐内饮料(473毫升)升级为拿铁(冷)(473毫升)或拿铁(热)(354毫升)或卡布奇诺(354毫升)
+p3: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p3: *根据法律规定，不得向18岁以下游客销售酒类商品。 *Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee(Cold)(473ml) or Coffee(Hot)(354ml)
+p3: 我们将查验购买者的有效身份证件以确认年龄。每单至多购买2杯。 *Add RMB 15 to upgrade beverage (473ml) in the combo to Caffé Latte(Cold)(473ml) or
+p3: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law. Caffé Latte(Hot)(354ml) or Cappuccino (354ml)
+p3: We will check valid ID credentials to confirm age.Maximum two cups per transaction.
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。*所有蛋制品均采用非笼养鸡蛋 *所有图片和重量仅供参考 *所有价格以人民币计算
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant. *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p3: *All egg products are from Cage-Free sources. *All images and weights are for reference only. *All prices are in CNY ©DISNEY Based on the “Winnie the Pooh” works, by A.A. Milne and E.H. Shepard

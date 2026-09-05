@@ -1,0 +1,176 @@
+p1: 黑椒牛肉叉烧
+p1: 大麦面配猪骨汤
+p1: Black Pepper Beef and Char Siu
+p1: Barley Noodles with Pork Bone Soup
+p1: 叉烧肉丸
+p1: 大麦面配猪骨汤
+p1: Char Siu and Meatball
+p1: Barley Noodles with Pork Bone Soup
+p1: 119
+p1: 元/RMB 780克/g
+p1: 黑椒牛肉肉丸
+p1: 大麦面配猪骨汤
+p1: Black Pepper Beef and Meatball
+p1: Barley Noodles with Pork Bone Soup
+p1: 119
+p1: 元/RMB 780克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 780克/g
+p1: 元/RMB 150克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 达菲和朋友们欢庆四人餐
+p2: Duffy & Friends Celebration Feast for Four
+p2: 蒜蓉豆豉烤红鱼620克，黑松露牛肉滑蛋240克，
+p2: 烤鸡腿150克，蒜苗炒培根100克，猪油炒青菜200克，
+p2: 烤混合香肠串100克，烤鸡软骨串100克，塔口100克，
+p2: 米饭10克，4杯473毫升饮料
+p2: Roasted Red Fish with Black Bean Garlic 620g, Black Truffle Beef with Egg
+p2: 240g, Roasted Chicken Leg 150g, Stir-fried Garlic Sprouts with Bacon 100g,
+p2: Wok-fried Bok Choy with Pork Lard 200g, Grilled Mixed Sausage Skewer
+p2: 100g, Grilled Chicken Cartilage Skewer 100g, Taco 100g, Rice 10g, 4
+p2: Cups of Soft Drinks 473ml/Per Cup
+p2: 9
+p2: 5
+p2: 4
+p2: 元/RMB
+p2: 2610克/g
+p2: 家庭分享 SHARING DISHES
+p2: 水煮牛肉 蒜蓉豆豉烤红鱼
+p2: Boiled Beef with Spicy Broth and Vegetables Roasted Red Fish with Black Bean Garlic
+p2: 108 138
+p2: 元/RMB 元/RMB
+p2: 750克/g 620克/g
+p2: 甜品 DESSERTS 儿童餐 KIDS' MENU 素食VEGETARIAN
+p2: 椰子麻薯 芒果班戟
+p2: 蒸鱼配咖喱蔬菜和炒面 杰拉多尼花园调色盘饭
+p2: Coconut Rice Mochi Mango Pancake
+p2: Steamed Fish with Curry Vegetables Gelatoni's Garden Palette Rice
+p2: and Fried Noodles
+p2: 20 30
+p2: 55 109
+p2: 元/RMB 元/RMB
+p2: 60克/g
+p2: 60克/g
+p2: 款式随机提供 元/RMB 元/RMB
+p2: Products are randomly distributed 380克/g 600克/g
+p2: 上海迪士尼度假区X德芙 上海迪士尼度假区 X M 豆
+p2: 48 68 米饭 5
+p2: 米奇城堡牛奶巧克力 牛奶巧克力豆(方罐)
+p2: Rice
+p2: Shanghai Disney Resort X Dove 元/RMB Shanghai Disney Resort X M&M'S 元/RMB 元/RMB
+p2: 30克/g 120克/g 250克/g
+p2: Mickey Castle Milk Chocolate Milk Chocolate(Jar)
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。*所有蛋制品均采用非笼养鸡蛋。*所有价格以人民币计算。所有图片和重量仅供参考
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant. *We may substitute different kinds of vegetables
+p2: in any combo meal with the change in seasons. Thank you for your understanding. *All egg products are from Cage-Free sources. *All prices are in CNY. All images and weights are for reference only
+p2: © DISNEY
+p3: 的的创创意意组组合合
+p3: 们们
+p3: 友友
+p3: 萌萌 FFRRIIEENNDDSS’’ CCRREEAATTIIVVEE CCOOMMBBOO
+p3: AANNDD 9
+p3: DDUUFFYY 11
+p3: 妙随心配 元/RMB
+p3: 奇
+p3: Combo
+p3: Your Own
+p3: Make 1 2
+p3: step step
+p3: 黑松露牛肉
+p3: 烤鸡腿配香肠饭
+p3: Roasted Chicken Leg with 滑蛋配香肠饭
+p3: 猪油炒青菜
+p3: Sausage Rice
+p3: Black Truffle Beef with Egg Wok-fried Boy Choy
+p3: 380克/g
+p3: and Sausage Rice with Pork Lard
+p3: +20
+p3: 380克/g
+p3: 150克/g
+p3: 元/RMB
+p3: 龙虾肉酱刀削面
+p3: 鱼香烤茄子
+p3: Lobster Dao Xiao Noodles
+p3: Roasted Eggplant with
+p3: with Meat Sauce
+p3: Yu Xiang Sauce
+p3: 420克/g
+p3: 140克/g
+p3: 蒜苗炒培根
+p3: 奥乐米拉海岛欢歌
+p3: 星黛露丝带海鲜面
+p3: Stir-fried Garlic Sprouts
+p3: 椰香大虾饭 with Bacon
+p3: StellaLou's Seafood
+p3: 'Olu Mel's Island Melody Ribbon Noodles 150克/g
+p3: Coconut Shrimp Rice
+p3: 420克/g 第1步 第2步
+p3: 420克/g
+p3: step
+p3: 3
+p3: 美年达霞多丽葡萄 康师傅冰红茶
+p3: 百事可乐 百事可乐无糖 美年达粉红树莓味 康师傅蜜桃乌龙
+p3: Pepsi Pepsi No Sugar Mirinda Pink Raspberry 风味气泡水 KSF Peach Oolong Tea KSF Iced Tea
+p3: 第3步
+p3: Mirinda Chardonnay Grape
+p3: Flavored Sparkling Water
+p3: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p3: *Combo includes a 473ml non-alcoholic cold beverages(Specialty Drinks Excluded)
+p3: 更多美味 ADD-ON
+p3: 45 35
+p3: 番茄咕咾肉 葱油芋艿
+p3: 元 /RM B 元 /RM B
+p3: Grape Flavored Iced Coffee Caffé Latte
+p3: Sweet and Sour Pork with Tomatoes Stewed Taro with Scallion Oil 473毫 升 /m l （热/Hot）354毫 升 /m l
+p3: （冷/Cold）473毫升/ml
+p3: 珍珠奶茶 40
+p3: 元/RMB 青岛/喜力啤酒 25
+p3: Bubble Milk Tea 354毫升/ml
+p3: Tsingtao/Heineken Beer 元 /RM B
+p3: 35 330毫 升 /m l
+p3: 卡布奇诺
+p3: 元/RMB
+p3: Cappuccino 354毫升/ml *不得向18岁以下游客销售酒类商品。我们将查验购买者
+p3: 的有效身份证件以确认年龄。每单至多购买2杯。
+p3: 咖啡 30 *The sale of alcoholic beverages to Guests under18
+p3: years old is prohibited by law.
+p3: +30 元 /RM B
+p3: +50 Coffee （热/Hot）354毫 升 /m l We will check valid ID credentials to confirm age.
+p3: （冷/Cold）473毫升/ml Maximum two cups per transaction.
+p3: 元 / R M B 元 / R M B
+p3: 1 5 0 克 / g *+10元可将套餐内饮料(473毫升)升级为咖啡(354毫升) +15元可将套餐内饮料(473毫升)升级为拿铁或卡布奇诺(354
+p3: 2 4 0 克 / g
+p3: 毫升)
+p3: *Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee (354 ml) *Add RMB 15 to upgrade beverage
+p3: (473 ml) in the combo to Caffé Latte or Cappuccino (354 ml)
+p3: 特饮含迪士尼达菲和朋友们吸管杯
+p3: Specialty Drink with Disney Duffy & Friends Souvenir Cup
+p3: 1 烤鸡软骨串100克
+p3: Grilled Chicken Cartilage Skewer 100g
+p3: 1 蓝莓风味奶昔
+p3: Blueberry Flavored 2 烤猪颈肉串100克
+p3: Milkshake +58 +30
+p3: Grilled Pork Neck Skewer 100g
+p3: 烤混合香肠串100克
+p3: 元/RMB 3 元/RMB
+p3: 橙香风味拿铁 500毫升/ml
+p3: 2 Grilled Mixed Sausage Skewer 100g
+p3: Orange Flavored Latte
+p3: 4 烤沙爹大虾串100克
+p3: 1 2 3 4 Grilled Satay Shrimp Skewer 100g
+p3: 1 2
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解。*所有蛋制品均采用非笼养鸡蛋。*所有价格以人民币计算。所有图片和重量仅供参考。
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant. *We may substitute different kinds of vegetables
+p3: in any combo meal with the change in seasons. Thank you for your understanding. *All egg products are from Cage-Free sources. *All prices are in CNY. All images and weights are for reference only.
+p3: © DISNEY

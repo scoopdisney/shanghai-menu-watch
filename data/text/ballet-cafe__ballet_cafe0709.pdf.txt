@@ -1,0 +1,36 @@
+p1: 时间:上午11点至晚上11点
+p1: Time: 11:00am to 11:00pm
+p1: 红烧牛筋肉面 海鲜叻沙
+p1: 168 108
+p1: 元/RMB 元/RMB
+p1: Braised Beef Tendon Noodles 950克/g Seafood Laksa 600克/g
+p1: 牛油果三文鱼饭 菜肉馄饨
+p1: 138 红烧米奇蹄膀饭 108 88
+p1: 元/RMB 元/RMB 元/RMB
+p1: Avocado Salmon Rice 350克/g 400克/g Pork and Vegetable Wonton 600克/g
+p1: Mickey Braised Pork Knuckle Rice
+p1: *套餐包含一瓶瓶装饮品
+p1: *Combo includes a bottle of drink
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding. Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 时间:上午11点至晚上11点
+p2: Time: 11:00am to 11:00pm
+p2: 香茅炸鸡 68 咸蛋黄炸薯条 48
+p2: 元/RMB 元/RMB
+p2: 150克/g 120克/g
+p2: Lemongrass Fried Chicken Salted Egg Yolk Fries
+p2: 黑豆腐丸子 卤味三拼
+p2: 58 68
+p2: 元/RMB 元/RMB
+p2: Black Tofu Ball 200克/g Hot-Braised Trio 180克/g
+p2: 牛肉，菌菇，豆腐
+p2: , ,
+p2: Beef Mushroom Tofu
+p2: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p2: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p2: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding. Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p2: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p2: ©DISNEY

@@ -1,0 +1,498 @@
+p1: 亲 爱 的 朋 友 们 ！
+p1: HEY PALS!
+p1: 新鲜的快乐出炉了！
+p1: 迪士尼小镇的第一家迪士尼主题餐厅
+p1: 为你带来惊喜连连、妙趣横生的奇妙体验
+p1: 好吃好喝好香好看好多选
+p1: 让每一个味蕾和镜头都得到满足
+p1: 别具一格的氛围和迪士尼朋友的元素
+p1: 让你大饱眼福,目不暇接！
+p1: 这里的每一餐，都有快乐调味
+p1: 美食每刻充满欢庆的滋味
+p1: 坐一坐，品一品，尝一尝
+p1: 欢乐已经上桌啦！
+p2: 亲 爱 的 朋 友 们 ！
+p2: HEY PALS!
+p2: We are cooking up delicious delights!
+p2: The first Disney-themed restaurant in Disneytown
+p2: will have you quackin’ and snackin’
+p2: We want your taste buds jump for joy
+p2: A lot of picks so take your pics!
+p2: With over-the-top deliciousness and photo-worthy
+p2: food and beverages
+p2: We want your eyes sparkle
+p2: Look around and look up!
+p2: Filled with charming décor and details
+p2: inspired by your Disney friends
+p2: We want your every bite to be filled with delight
+p2: Where every eating is with celebration feels
+p2: And unexpected magic fills
+p2: Sit back, munch and enjoy!
+p2: Happiness is served!
+p3: 前菜和汤
+p3: APPETIZERS AND SOUP
+p3: 138
+p3: 388
+p3: 360克/g 360克/g
+p3: 大厨唐老鸭和奇奇蒂蒂小食拼盘 大厨唐老鸭和奇奇蒂蒂小食拼盘
+p3: Chef Donald Duck 含唐老鸭钓鱼盘套装
+p3: and Chip ‘n’ Dale Snack Platter Chef Donald and Chip ‘n’ Dale Snack Platter
+p3: 炸鸡块，炸排条，炸鱿鱼圈，配塔塔酱和烧烤酱 with Donald Duck Fishing Plate
+p3: Chicken Nugget, Fried Pork Rib, Calamari Ring, Tartar Sauce, 炸鸡块，炸排条，炸鱿鱼圈，配塔塔酱和烧烤酱
+p3: and BBQ Sauce
+p3: Chicken Nugget, Fried Pork Rib, Calamari Ring,
+p3: Tartar Sauce, and BBQ Sauce
+p3: *所有蛋制品均采用非笼养鸡蛋。
+p3: *All menu items containing eggs are from Cage-Free sources.
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p3: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p3: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p3: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p3: © DISNEY
+p4: 前菜和汤
+p4: APPETIZERS AND SOUP
+p4: 138
+p4: 280克/g
+p4: 煎金枪鱼色拉
+p4: Seared Tuna Crudo Salad
+p4: 金枪鱼，奶油生菜，橙，罗勒，茴香, 青橄榄和腌制辣椒汁
+p4: Tuna, Butter Lettuce, Orange, Basil, Fennel, Green Olive
+p4: and Preserved Chili Dressing
+p4: *所有蛋制品均采用非笼养鸡蛋。
+p4: *All menu items containing eggs are from Cage-Free sources.
+p4: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p4: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p4: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p4: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p4: © DISNEY
+p5: 前菜和汤
+p5: APPETIZERS AND SOUP
+p5: 意式火腿蜜瓜色拉 炸意式蟹肉芝士球
+p5: 128 98
+p5: Prosciutto, Hami Melon Salad 220克/g Deep-fried Crab Arancini
+p5: 150克/g
+p5: Cheese Ball
+p5: 意式火腿，蜜瓜，芝麻菜，水牛芝士，核桃，芝士奶冻
+p5: 和柠檬油醋汁
+p5: 蟹肉芝士球，塔塔酱，帕玛森芝士片，车达芝士，香料色拉
+p5: Prosciutto Ham, Hami Melon, Arugula, Buffalo Mozzarella 和罗勒酱
+p5: Cheese, Walnut, Cheese Panna Cotta, and Lemon Vinegar
+p5: Crab Arancini Cheese Ball, Tartar Sauce, Parmesan Cheese
+p5: Dressing
+p5: Shaving, Cheddar Cheese, Herb Salad, and Pesto Sauce
+p5: 布拉塔芝士腌樱桃番茄色拉 奶油蘑菇汤
+p5: 128 58
+p5: Burrata Cheese, Marinated Cherry 310克/g Crème de Champignons Soup 250克/g
+p5: Tomato Salad
+p5: 蘑菇汤，奶油，欧芹，松露油，蛋白和香脆面包
+p5: 樱桃番茄，布拉塔芝士，芝麻菜，苦菊，罗勒，松子， Mushroom Soup, Cream, Parsley, Truffle Oil, Egg White, and
+p5: Crispy Bread
+p5: 黑醋粒，罗勒酱和柠檬醋汁
+p5: Cherry Tomato, Burrata Cheese, Arugula, Frisee, Basil, Pine
+p5: Nut, Balsamic Pearl, Pesto Sauce, and Lemon Vinegar
+p5: Dressing
+p5: 意式蔬菜汤 58
+p5: Tuscan Minestrone Soup 250克/g
+p5: 意大利蔬菜汤，罗勒酱，意大利米粒面，和香脆面包
+p5: Minestrone Soup, Pesto Sauce, Orzo Pasta, and Crispy
+p5: Bread
+p5: *所有蛋制品均采用非笼养鸡蛋。
+p5: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。 *All menu items containing eggs are from Cage-Free sources.
+p5: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p5: *食物中的花朵可能根据供应情况提供替代品种，尽请谅解。
+p5: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。 *We may substitute different flowers in any dishes based on the change of supply.
+p5: *All images and weights/volumes are for reference only. *All prices are in CNY. Thank you for your understanding.
+p5: © DISNEY
+p6: 主菜
+p6: ENTRÉES
+p6: NDED
+p6: S
+p6: E H
+p6: M A
+p6: M R
+p6: I
+p6: O N
+p6: C
+p6: G
+p6: E
+p6: R W
+p6: I
+p6: ! T
+p6: S H
+p6: D
+p6: NEIRF
+p6: 328
+p6: 400克/g
+p6: 扒肉眼牛排配芝麻菜芝士色拉
+p6: Grilled Beef Rib Eye, Arugula and Parmesan Cheese Salad
+p6: 牛眼肉，芝麻菜，苦菊，樱桃番茄，帕玛森芝士片，松子和胡椒酱汁
+p6: Beef Rib Eye Steak, Arugula, Frisee, Cherry Tomato Shaving, Parmesan
+p6: Cheese, Pine Nut, and Pepper Sauce
+p6: 1 推荐与朋友们尽情分享。
+p6: Recommended for sharing with friends.
+p6: *所有蛋制品均采用非笼养鸡蛋。
+p6: *All menu items containing eggs are from Cage-Free sources.
+p6: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p6: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p6: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p6: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p6: © DISNEY
+p7: 香煎三文鱼柳配罗勒酱 198 大厨唐老鸭双重牛肉汉堡&薯条 168
+p7: 300克/g 420克/g
+p7: Pan-fried Salmon Fillet, Pesto Sauce Chef Donald Duck Double Wagyu Beef
+p7: Burger & Fries
+p7: 三文鱼柳，樱桃番茄，土豆，炖蔬菜，橄榄，罗勒酱和黑醋
+p7: Salmon Fillet, Cherry Tomato, Potato, Vegetable Stew,
+p7: 汉堡面包，和牛肉饼，烟熏牛胸肉，培根，番茄，生菜，
+p7: Olive, Pesto Sauce, and Balsamic Vinegar 车达芝士，细薯条和番茄酱
+p7: Hamburger Bun, Wagyu Beef Patty, Smoked Beef Brisket,
+p7: Bacon, Tomato, Lettuce, Cheddar Cheese, Thin French Fries,
+p7: 帕玛森芝士鳕鱼配芦笋米粒面 228
+p7: and Tomato Ketchup
+p7: Parmesan Crusted Cod, Asparagus 300克/g
+p7: Orzo Pasta 海鲜意大利面
+p7: 138
+p7: 鳕鱼柳，意大利米粒面，芦笋，樱桃番茄，香草绿油， 430克/g
+p7: Seafood Spaghetti
+p7: 罗勒和柠檬黄油汁
+p7: 意大利面， 蓝口贝，鱿鱼，虾仁，樱桃番茄，罗勒酱，
+p7: Cod Fillet, Orzo Pasta, Asparagus, Cherry Tomato, Green
+p7: 番茄汁和辣椒
+p7: Herb Oil, Basil, and Lemon Butter Sauce
+p7: Spaghetti, Blue Mussel, Squid, Shrimp, Cherry Tomato, Pesto
+p7: Sauce, Tomato Sauce, and Chili
+p7: 炖羊腱配土豆泥迷迭香汁 198
+p7: 黑松露蘑菇意面 138
+p7: Braised Lamb Shank, Potato Puree, 420克/g
+p7: Black Truffle Mushroom Linguini 370克/g
+p7: Rosemary Jus
+p7: 意大利扁面， 黑松露片，牛排菇，蘑菇，香菇，杏鲍菇，
+p7: 炖羊腱，土豆泥，炒菠菜，烤番茄，香草色拉和迷迭香汁 奶油松露酱和帕玛森芝士片
+p7: Braised Lamb Shank, Mashed Potato, Stir-fried Spinach,
+p7: Linguini, Truffle Shaving, Portobello Mushroom, Button
+p7: Roasted Tomato, Herb Salad, and Rosemary Jus Mushroom, Shiitake Mushroom, Oyster Mushroom, Cream
+p7: Truffle Sauce, and Parmesan Cheese Shaving
+p7: 米兰炸鸡配芝麻菜番茄色拉 168
+p7: 番茄和牛肉丸意大利面 138
+p7: Deep-fried Chicken Milanese, Arugula 380克/g
+p7: Spaghetti, Tomato Wagyu Beef 500克/g
+p7: and Cherry Tomato Salad
+p7: Meatball
+p7: 米兰炸鸡，芝麻菜，樱桃番茄，小圆萝卜，小甘葱，柠檬，
+p7: 意大利面，和牛肉丸，樱桃番茄，番茄汁和帕玛森芝士片
+p7: 帕玛森芝士片和黑醋
+p7: Chicken Milanese, Arugula, Cherry Tomato, Radish, Spaghetti, Wagyu Beef Meatball, Cherry Tomato, Tomato
+p7: Shallot, Lemon, Parmesan Cheese Shaving, and Balsamic Sauce, and Parmesan Cheese Shavings
+p7: Vinegar
+p7: *所有蛋制品均采用非笼养鸡蛋。
+p7: *All menu items containing eggs are from Cage-Free sources.
+p7: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p7: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p7: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p7: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p7: © DISNEY
+p8: 38
+p8: 小食 90克/g
+p8: 烤蒜蓉香料面包
+p8: SIDES Baked Garlic
+p8: and Herb Bread
+p8: 50
+p8: 120克/g
+p8: 炸鸡柳配番茄莎莎
+p8: Fried Chicken Tender,
+p8: Tomato Salsa
+p8: 38
+p8: 100克/g
+p8: 细薯条
+p8: 配大蒜蛋黄酱
+p8: French Fries,
+p8: Garlic Aioli
+p8: 38
+p8: 120克/g
+p8: 炒菌菇
+p8: Sautéed Mushrooms
+p8: 88
+p8: 360克/g
+p8: 香辣炸鸡翅
+p8: Spicy Fried
+p8: Chicken Wing
+p8: 48
+p8: 240克/g
+p8: 烤樱桃番茄
+p8: Roasted Cherry Tomato
+p8: 48
+p8: 170克/g
+p8: 时令蔬菜
+p8: Seasonal Vegetables,
+p8: Fresh Herbs
+p8: 58
+p8: 180克/g
+p8: 芝士培根炸薯条
+p8: Loaded Cheese & Bacon,
+p8: Fries
+p8: *所有蛋制品均采用非笼养鸡蛋。
+p8: *All menu items containing eggs are from Cage-Free sources.
+p8: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p8: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p8: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p8: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p8: © DISNEY
+p9: 儿童套餐
+p9: KIDS’ CREATE-YOUR-OWN MENU
+p9: 推荐三岁至十一岁客人享用
+p9: Recommended For Guests Aged
+p9: 3 to 11 Years Old
+p9: 158
+p9: 意式蔬菜汤
+p9: Tuscan Minestrone Soup
+p9: 250克/g 柑橘雪芭配季节水果
+p9: 或or Citrus Sorbet, Seasonal Fruits
+p9: 樱桃番茄水牛芝士色拉 160克/g
+p9: Cherry Tomato and Mozzarella Salad
+p9: 110克/g
+p9: 牛奶或橙汁或苹果汁
+p9: Choice of Milk or Orange Juice
+p9: or Apple Juice
+p9: 230毫升/ml
+p9: 迷你和牛汉堡配炸薯条
+p9: Mini Wagyu Beef Burger, Fries
+p9: 280克/g
+p9: 或or
+p9: 意大利肉酱面
+p9: Spaghetti Bolognese
+p9: 280克/g
+p9: 或or
+p9: 迷你玛格丽特披萨
+p9: Mini Margherita Pizza
+p9: 220克/g
+p9: *所有蛋制品均采用非笼养鸡蛋。
+p9: *All menu items containing eggs are from Cage-Free sources.
+p9: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p9: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p9: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p9: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p9: © DISNEY
+p10: 圣代
+p10: SUNDAES
+p10: 迪士尼乐园星愿湖圣代 98 奇奇蒂蒂圣代 98
+p10: Disneyland Wishing Star Lake Sundae 260克/g Chip ‘n’ Dale Sundae 230克/g
+p10: 马达加斯加香草冰淇淋，巧克力冰淇淋，草莓冰淇淋，奶油， 马达加斯加香草冰淇淋，海盐焦糖冰淇淋，巧克力冰淇淋，
+p10: 树莓酱，巧克力酱，牛奶脆珠，布朗尼，巧克力屑，糖针和华 巧克力酱，海盐焦糖酱，奶油，焦糖爆米花，牛奶巧克力
+p10: 脆珠, 杏仁片，玛德琳和华夫
+p10: 夫
+p10: Madagascar Vanilla Ice Cream, Sea Salt Caramel Ice Cream,
+p10: Madagascar Vanilla Ice Cream, Chocolate Ice Cream, Strawberry
+p10: Ice Cream, Cream, Raspberry Coulis, Chocolate Sauce, Milk Crisp Chocolate Ice Cream, Chocolate Sauce, Sea Salt Caramel
+p10: Pearl, Brownie, Chocolate Shaving, Sprinkles, and Waffle Sauce, Cream, Caramel Popcorn, Milk Chocolate Crisp Pearl,
+p10: Almond Slices, Madeleine, and Waffle
+p10: *所有蛋制品均采用非笼养鸡蛋。
+p10: *All menu items containing eggs are from Cage-Free sources.
+p10: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p10: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p10: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p10: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p10: © DISNEY
+p11: 冰淇淋
+p11: ICE CREAM
+p11: 黛丝草莓冰淇淋 68 唐老鸭香草冰淇淋 68
+p11: Daisy Duck Strawberry Ice Cream 130克/g Donald Duck Vanilla Ice Cream 130克/g
+p11: 华夫筒，草莓冰淇淋，巧克力，和糖针 华夫筒，香草冰淇淋，巧克力，和糖针
+p11: Waffle Cone, Strawberry Ice Cream, Chocolate, and Sprinkles Waffle Cone, Vanilla Ice Cream, Chocolate, and Sprinkles
+p11: 奇奇蒂蒂巧克力冰淇淋 68
+p11: Chip ‘n’ Dale Chocolate Ice Cream 130克/g
+p11: 华夫筒，巧克力冰淇淋，巧克力，和糖针
+p11: Waffle Cone, Chocolate Ice Cream, and Sprinkles
+p11: *所有蛋制品均采用非笼养鸡蛋。
+p11: *All menu items containing eggs are from Cage-Free sources.
+p11: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p11: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p11: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p11: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p11: © DISNEY
+p12: 奶昔
+p12: MILKSHAKES
+p12: 88 88
+p12: 224400毫毫升升//mmll 224400毫毫升升//mmll
+p12: 高高飞飞巧巧克克力力奶奶昔昔 黛黛丝丝草草莓莓奶奶昔昔
+p12: GGooffyy CChhooccoollaattee DDaaiissyy DDuucckk SSttrraawwbbeerryy
+p12: MMiillkksshhaakkee MMiillkksshhaakkee
+p12: 88
+p12: 223300毫毫升升//mmll
+p12: 唐唐老老鸭鸭香香草草奶奶昔昔
+p12: DDoonnaalldd DDuucckk VVaanniillaa
+p12: MMiillkksshhaakkee
+p12: *所有蛋制品均采用非笼养鸡蛋。
+p12: *All menu items containing eggs are from Cage-Free sources.
+p12: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p12: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p12: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p12: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p12: © DISNEY
+p13: 甜品
+p13: DESSERTS
+p13: 意式泡芙配热巧克力酱 98 百香果风味奶冻配混合莓果 88
+p13: 和香草冰淇淋 190克/g 和开心果意式脆饼 140克/g
+p13: Italian Profiteroles, Warm Chocolate Sauce, Passionfruit Flavor Panna Cotta,
+p13: Vanilla Custard Mixed Berries, Pistachio Biscotti
+p13: 泡芙，香草冰淇淋，香草卡仕达酱，榛子，开心果 百香果风味奶冻，开心果意式脆饼，草莓，蓝莓，树莓，
+p13: 和热巧克力酱 混合莓果酱和玛琳
+p13: Puff, Vanilla Ice Cream, Vanilla Custard, Hazelnut, Pistachio, Passionfruit Flavor Panna Cotta, Pistachio Biscotti, Strawberry,
+p13: and Warm Chocolate Sauce Blueberry, Raspberry, Mixed Berries Puree, and Meringue
+p13: 榛子巧克力酱香蕉披萨 98 大厨唐老鸭传统提拉米苏杯 88
+p13: Dessert Pizza, Nutella, Hazelnut, Banana 320克/g Chef Donald Classic Tiramisu 110克/g
+p13: 香蕉，牛奶巧克力碎，脆榛子，杏仁片，披萨面团，焦糖酱， 提拉米苏，香草冰淇淋和牛奶巧克力脆谷粒
+p13: 榛子巧克力酱，白酱，薄荷和香草冰淇淋 Tiramisu, Vanilla Ice Cream, and Milk Chocolate Crisp Pearls
+p13: Banana, Milk Chocolate Chips, Crispy Hazelnut, Almond Slices,
+p13: Pizza Dough, Caramel Sauce, Nutellas Sauce, Béchamel
+p13: Sauce, Mint, and Vanilla Ice Cream
+p13: *所有蛋制品均采用非笼养鸡蛋。
+p13: *All menu items containing eggs are from Cage-Free sources.
+p13: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p13: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p13: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p13: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p13: © DISNEY
+p14: 老盐菠萝气泡水
+p14: 78
+p14: 无酒精饮料
+p14: Salty Pineapple Fizz 240毫升/ml
+p14: 7喜，菠萝，话梅，柠檬，青柠，迷迭香
+p14: 7up, Pineapple, Preserved Plum, Lemon, Lime, Rosemary
+p14: NON-ALCOHOLIC
+p14: BEVERAGES
+p14: 唐老鸭百香果菠萝风味冰沙
+p14: Donald Duck Passionfruit
+p14: 78
+p14: and Pineapple Flavored Slush
+p14: 400毫升/ml
+p14: 橙汁，美年达百香果菠萝味，蓝柑风味糖浆，
+p14: 薄荷，乳酸菌饮品
+p14: Orange Juice, Mirinda Passionfruit Pineapple Flavor, Blue
+p14: Curacao Syrup, Mint, Lactobacillus
+p14: 唐老鸭冰淇淋苏打
+p14: 78
+p14: Donald Duck Ice Cream Soda 230毫升/ml
+p14: 蓝柑糖浆，接骨木风味糖浆，7喜，奶油，香草冰淇淋和
+p14: 糖渍樱桃
+p14: Blue Curacao Syrup, Elderberry Flavor Syrup, 7up, Cream,
+p14: Vanilla Ice Cream, and Macerated Cherry
+p14: 薄荷橙子气泡水 78
+p14: Mint Orange Fizz 240毫升/ml
+p14: 青柠汁，石榴糖浆，橙汁，糖醋混合糖浆，绿薄荷糖浆和7喜
+p14: Lime Juice, Grenadine Syrup, Orange Juice, Sweet & Sour
+p14: Mix Syrup, Green Mint Syrup, and 7up
+p14: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p14: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p14: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p14: *All images and weights/volumes are for reference only. *All prices are in CNY.
+p14: © DISNEY
+p15: 10岁生日庆典特饮
+p15: 10th Birthday Celebration Specialty Drinks
+p15: 78
+p15: 绿茶奇异果漾
+p15: Green Tea Kiwi Bliss 250 /ml
+p15: 毫升
+p15: 接骨木花风味糖浆，奇异果糖浆，金果猕猴桃，柠檬，茉莉绿茶
+p15: Elderberry Flavor Syrup, Kiwi Syrup, Golden Kiwi, Lemon,
+p15: Jasmine Tea
+p15: 88
+p15: 奇异果金酒（含酒精）
+p15: Kiwi Gin (Alcoholic) 120 /ml
+p15: 毫升
+p15: 金酒，奇异果糖浆，接骨木花风味糖浆，柠檬汁，苏打气泡水，
+p15: 薄荷叶，金果猕猴桃，迷你小黄瓜
+p15: Gin, Kiwi Syrup, Elderberry Flavor Syrup, Lemon Juice,
+p15: Soda Water, Mint Leaves, Golden Kiwi, Baby Cucumbers
+p15: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。 *根据法律规定，不得向未满18岁的客人销售酒精类商品
+p15: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p15: 我们将查验购买者的有效身份证件以确认年龄。
+p15: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law
+p15: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p15: *All images and weights/volumes are for reference only. *All prices are in CNY. We will check a valid form of ID to confirm age.
+p15: © DISNEY
+p16: 10岁生日庆典特饮
+p16: 10th Birthday Celebration Specialty Drinks
+p16: 78
+p16: 冬瓜风味柠檬茶
+p16: Winter Melon Flavored
+p16: 200 /ml
+p16: 毫升
+p16: Lemon Tea
+p16: 冬瓜汁，玫瑰风味糖浆，柠檬，青柠，迷迭香
+p16: Winter Melon Juice, Rose Flavored Syrup,
+p16: Lemon, Lime, Rosemary
+p16: 88
+p16: 冬瓜嗨棒（含酒精）
+p16: Winter Melon Highball(Alcoholic) 180 /ml
+p16: 毫升
+p16: 冬瓜汁，占边威士忌，柠檬，气泡水，橙
+p16: Winter Melon Juice, Jim Beam Whisky, Lemon,
+p16: Sparkling, Orange
+p16: *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。 *根据法律规定，不得向未满18岁的客人销售酒精类商品
+p16: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p16: 我们将查验购买者的有效身份证件以确认年龄。
+p16: *所有图片和重量/容量仅供参考。 *以上价格均为人民币。 *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law
+p16: *All images and weights/volumes are for reference only. *All prices are in CNY. We will check a valid form of ID to confirm age.
+p16: © DISNEY
+p17: 啤酒
+p17: BEER
+p17: 喜力
+p17: 58
+p17: Heineken
+p17: 330毫升/ml
+p17: 青岛
+p17: 48
+p17: Tsingtao 296毫升/ml
+p17: 其他饮品
+p17: OTHER BEVERAGES
+p17: 咖啡 48
+p17: Coffee
+p17: 230毫升/ml
+p17: 拿铁
+p17: 48
+p17: Caffé Latte
+p17: 230毫升/ml
+p17: 卡布奇诺
+p17: 48
+p17: Cappuccino
+p17: 230毫升/ml
+p17: 特浓咖啡 48
+p17: Espresso
+p17: 30毫升/ml
+p17: 英式早餐茶
+p17: 48
+p17: English Breakfast Tea
+p17: 500毫升/ml
+p17: 茉莉茶
+p17: 48
+p17: Jasmine Tea
+p17: 500毫升/ml
+p17: 依云充气天然矿泉水 68
+p17: Evian Sparkling Natural Mineral Water 750毫升/ml
+p17: 依云天然矿泉水
+p17: 68
+p17: Evian Still Natural Mineral Water
+p17: 750毫升/ml
+p17: 涵养泉10岁生日庆典纪念款
+p17: 28
+p17: KSF Natural Mineral Water 10th Birthday Celebration Edition
+p17: 550毫升/ml
+p17: 软饮料 38
+p17: Soft Drinks 330毫升/ml
+p17: 百事可乐，百事可乐无糖，7喜，康师傅冰红茶，美年达大气橙味，姜汁汽水，汤力水
+p17: Pepsi, Pepsi No Sugar, 7up, KSF Iced Tea, Mirinda Orange Flavor, Ginger Ale,Tonic Water
+p17: 儿童饮品
+p17: KIDS BEVERAGES
+p17: 全脂牛奶
+p17: 48
+p17: Whole Fat Milk
+p17: 230毫升/ml
+p17: 48
+p17: 橙汁或苹果汁
+p17: 230毫升/ml
+p17: Orange Juice or Apple Juice
+p17: *根据法律规定，不得向未满18岁的客人销售酒精类商品 *如果您有特殊餐饮需求，请在到达餐厅时主动告知联系演职人员进行沟通。
+p17: 我们将查验购买者的有效身份证件以确认年龄。每单至多购买2杯。 *Please inform Cast Members of any dietary restrictions when arriving at the restaurant.
+p17: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law *所有图片和重量/容量仅供参考。 *以上价格均为人民币。
+p17: We will check a valid form of ID to confirm age. *All images and weights/volumes are for reference only. *All prices are in CNY.
+p17: Maximum two cups per transaction. © DISNEY
