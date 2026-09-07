@@ -153,11 +153,11 @@ p3: 20
 p3: 元/RMB （热/Hot）354毫升/ml
 p3: DISH 354毫升/ml
 p3: Tea
-p3: 青岛/喜力啤酒 25
+p3: 青岛啤酒/喜力啤酒 25
 p3: 元/RMB
 p3: 各式饮料 20
 p3: 元/RMB 330毫升/ml
-p3: Tsingtao/Heineken Beer
+p3: Tsingtao Beer/Heineken Beer
 p3: 473毫升/ml
 p3: *不得向18岁以下游客销售酒类商品。
 p3: Assorted Beverages

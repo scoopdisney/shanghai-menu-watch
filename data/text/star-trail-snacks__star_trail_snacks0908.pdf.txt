@@ -14,14 +14,15 @@ p1: 元/RMB 元/RMB
 p1: KSF Natural Mineral Water 550毫升/ml (冷)473毫升/ml
 p1: Coffee
 p1: 10th Birthday Celebration Edition (热)354毫升/ml
-p1: 康师傅冰红茶
+p1: 康师傅冰红茶低糖高纤
 p1: 卡布奇诺 35
 p1: 15
-p1: 10岁生日庆典纪念款 元/RMB
+p1: 10岁生日庆典搭子瓶 元/RMB
 p1: 元/RMB
 p1: (冷)473毫升/ml
-p1: KSF Ice Tea 10th Birthday Celebration Pal Edition 500毫升/ml Cappuccino
+p1: KSF Ice Tea Low sugar High Fiber 500毫升/ml Cappuccino
 p1: (热)354毫升/ml
+p1: 10th Birthday Celebration Pal Edition
 p1: 拿铁 35
 p1: 15
 p1: 百事可乐10岁生日庆典纪念款 元/RMB 元/RMB

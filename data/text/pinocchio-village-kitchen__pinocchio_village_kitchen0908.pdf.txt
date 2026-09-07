@@ -164,10 +164,10 @@ p3: 40
 p3: 珍珠奶茶 Bubble Milk Tea 380克/g
 p3: Vegetarian Pizza
 p3: 354毫升/ml
-p3: 青岛/喜力啤酒 25
+p3: 青岛啤酒/喜力啤酒 25
 p3: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
 p3: +10元可将套餐内饮料(473毫升)升级为咖啡(冷)(473毫升)或咖啡(热)(354毫升)
-p3: Tsingtao/Heineken Beer 330毫升/ml
+p3: Tsingtao Beer/Heineken Beer 330毫升/ml
 p3: +15元可将套餐内饮料(473毫升)升级为拿铁(冷)(473毫升)或拿铁(热)(354毫升)或卡布奇诺(354毫升)
 p3: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
 p3: *根据法律规定，不得向18岁以下游客销售酒类商品。 *Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee(Cold)(473ml) or Coffee(Hot)(354ml)

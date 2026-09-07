@@ -27,14 +27,14 @@ p1: 元元//RRMMBB
 p1: Pepsi 10th Birthday Celebration Edition
 p1: 6600毫毫升升//mmll
 p1: Cappuccino ((冷冷))447733毫毫升升//mmll
-p1: ((热热))335544毫毫升升//mmll
+p1: 康康师师傅傅冰冰红红茶茶低低糖糖高高纤纤 ((热热))335544毫毫升升//mmll
 p1: 1155
-p1: 康康师师傅傅冰冰红红茶茶1100岁岁生生日日庆庆典典纪纪念念款款 葡葡萄萄风风味味冰冰咖咖啡啡 4455
+p1: 1100岁岁生生日日庆庆典典搭搭子子瓶瓶 葡葡萄萄风风味味冰冰咖咖啡啡 4455
 p1: 元元//RRMMBB
 p1: 元元//RRMMBB
-p1: KSF Ice Tea 10th Birthday Celebration Pal Edition 5500毫毫升升//mmll
+p1: KSF Ice Tea Low sugar High Fiber 5500毫毫升升//mmll
 p1: 447733毫毫升升//mmll
-p1: Grape Flavored Iced Coffee
+p1: 10th Birthday Celebration Pal Edition Grape Flavored Iced Coffee
 p1: **所所有有蛋蛋制制品品均均采采用用非非笼笼养养鸡鸡蛋蛋。。
 p1: *All menu items containing eggs are from Cage-Free sources.
 p1: **软软冰冰淇淇淋淋浆浆料料由由 倾倾情情提提供供 *Soft serve ice cream slurries are provided by Mengniu

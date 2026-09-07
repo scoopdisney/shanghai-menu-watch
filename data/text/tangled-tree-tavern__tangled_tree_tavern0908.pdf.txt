@@ -164,10 +164,10 @@ p3: 120克/g
 p3: Caffé Latte (热/Hot)354毫升/ml 牛奶巧克力豆(方罐)
 p3: (冷/Cold)473毫升/ml
 p3: Shanghai Disney Resort X M&M'S
-p3: 青岛/喜力啤酒 25元/RMB
+p3: 青岛啤酒/喜力啤酒 25元/RMB
 p3: Milk Chocolate(Jar)
 p3: 330毫升/ml
-p3: Tsingtao/Heineken Beer
+p3: Tsingtao Beer/Heineken Beer
 p3: *不得向18岁以下游客销售酒类商品。
 p3: 我们将查验购买者的有效身份证件以确认年龄。每单至多购买2杯。
 p3: *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law.

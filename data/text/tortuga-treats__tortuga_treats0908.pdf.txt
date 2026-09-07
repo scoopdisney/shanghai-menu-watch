@@ -7,8 +7,8 @@ p1: 元 85元
 p1: /RMB/200克/g
 p1: /RMB/210克/g
 p1: *套餐内可选饮料：
-p1: 百事可乐10岁生日庆典纪念款或康师傅冰红茶10岁生日庆典纪念款
-p1: *Combo includes a bottle of Pepsi 10th Birthday Celebration Edition or KSF Ice Tea 10th Birthday Celebration Pal Edition
+p1: 百事可乐10岁生日庆典纪念款或康师傅冰红茶低糖高纤10岁生日庆典搭子瓶
+p1: *Combo includes a bottle of Pepsi 10th Birthday Celebration Edition or KSF Ice Tea Low sugar High Fiber 10th Birthday Celebration Pal Edition
 p1: 饮料
 p1: Beverages
 p1: 涵养泉10岁生日庆典纪念款 10 咖啡 30元/RMB
@@ -21,10 +21,11 @@ p1: ( 冷 ) 4 7 3 毫 升 / m l
 p1: Pepsi 10th Birthday Celebration Edition 600毫升/ml Caffé Latte
 p1: ( 热 ) 3 5 4 毫 升 / m l
 p1: 卡布奇诺
-p1: 康师傅冰红茶10岁生日庆典纪念款 15元/RMB 35元/RMB
-p1: (冷)473毫升/ml
-p1: KSF Ice Tea 10th Birthday Celebration Pal Edition 500毫升/ml Cappuccino
+p1: 康师傅冰红茶低糖高纤 15元/RMB 35元/RMB
+p1: 10岁生日庆典搭子瓶 (冷)473毫升/ml
+p1: 500毫升/ml Cappuccino
 p1: (热)354毫升/ml
+p1: KSF Ice Tea Low Sugar High Fiber 10th Birthday Celebration Pal Edition
 p1: 佳得乐蓝莓味 15 葡萄风味冰咖啡 45元/RMB
 p1: 元/RMB
 p1: Gatorade Blueberry 600毫升/ml 473毫升/ml

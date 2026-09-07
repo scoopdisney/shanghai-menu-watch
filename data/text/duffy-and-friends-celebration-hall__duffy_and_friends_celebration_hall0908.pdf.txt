@@ -131,20 +131,22 @@ p3: 更多美味 ADD-ON
 p3: 45 35
 p3: 番茄咕咾肉 葱油芋艿
 p3: 元 /RM B 元 /RM B
-p3: Grape Flavored Iced Coffee Caffé Latte
-p3: Sweet and Sour Pork with Tomatoes Stewed Taro with Scallion Oil 473毫 升 /m l （热/Hot）354毫 升 /m l
+p3: Grape Flavored Iced Coffee Caffé Latte （热/Hot）354毫 升 /m l
+p3: Sweet and Sour Pork with Tomatoes Stewed Taro with Scallion Oil 473毫 升 /m l
 p3: （冷/Cold）473毫升/ml
 p3: 珍珠奶茶 40
-p3: 元/RMB 青岛/喜力啤酒 25
+p3: 25
+p3: 元/RMB 青岛啤酒/喜力啤酒
 p3: Bubble Milk Tea 354毫升/ml
-p3: Tsingtao/Heineken Beer 元 /RM B
-p3: 35 330毫 升 /m l
+p3: 元/RMB
+p3: Tsingtao Beer/Heineken Beer
+p3: 35 330毫升/ml
 p3: 卡布奇诺
 p3: 元/RMB
-p3: Cappuccino 354毫升/ml *不得向18岁以下游客销售酒类商品。我们将查验购买者
-p3: 的有效身份证件以确认年龄。每单至多购买2杯。
-p3: 咖啡 30 *The sale of alcoholic beverages to Guests under18
-p3: years old is prohibited by law.
+p3: Cappuccino 354毫升/ml *不得向18岁以下游客销售酒类商品。我们将查验购买者的有效
+p3: 身份证件以确认年龄。每单至多购买2杯。
+p3: 咖啡 30 *The sale of alcoholic beverages to Guests under18 years
+p3: old is prohibited by law.
 p3: +30 元 /RM B
 p3: +50 Coffee （热/Hot）354毫 升 /m l We will check valid ID credentials to confirm age.
 p3: （冷/Cold）473毫升/ml Maximum two cups per transaction.

@@ -8,8 +8,8 @@ p1: American Cheese Hot Dog Combo Beef Cheese Hot Dog with Sweet Soybean Sauce C
 p1: 80 85
 p1: 元/RMB/130克/g 元/RMB/180克/g
 p1: *套餐内可选饮料：
-p1: 百事可乐10岁生日庆典纪念款或康师傅冰红茶10岁生日庆典纪念款
-p1: *Combo includes a bottle of Pepsi 10th Birthday Celebration Edition or KSF Ice Tea 10th Birthday Celebration Pal Edition
+p1: 百事可乐10岁生日庆典纪念款或康师傅冰红茶低糖高纤10岁生日庆典搭子瓶
+p1: *Combo includes a bottle of Pepsi 10th Birthday Celebration Edition or KSF Ice Tea Low sugar High Fiber 10th Birthday Celebration Pal Edition
 p1: 涵养泉10岁生日庆典纪念款
 p1: 10 咖啡 30
 p1: 元/RMB 元/RMB
@@ -32,11 +32,12 @@ p1: Gatorade Blueberry 600毫升/ml
 p1: (冷)473毫升/ml
 p1: Cappuccino
 p1: (热)354毫升/ml
-p1: 康师傅冰红茶10岁生日庆典纪念款 15
+p1: 康师傅冰红茶低糖高纤10岁生日庆典搭子瓶 15
 p1: 元/RMB
 p1: 葡萄风味冰咖啡 45
-p1: KSF Ice Tea 10th Birthday Celebration Pal Edition 500毫升/ml
+p1: KSF Ice Tea Low sugar High Fiber 500毫升/ml
 p1: 元/RMB
+p1: 10th Birthday Celebration Pal Edition
 p1: Grape Flavored Iced Coffee 473毫升/ml
 p1: *所有蛋制品均采用非笼养鸡蛋。*All
 p1: egg products are from Cage-Free sources.
