@@ -1,5 +1,7 @@
 """Summary + daily-marker logic for shanghai-menu-watch."""
 import os, subprocess
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 RENDER_DPI = int(os.environ.get('RENDER_DPI', '70'))
 MAX_RENDER_PAGES = int(os.environ.get('MAX_RENDER_PAGES', '8'))
@@ -29,7 +31,7 @@ def write_summary(ctx):
     last_daily = open('data/last-daily.txt').read().strip() if os.path.exists('data/last-daily.txt') else ''
     is_daily = last_daily != TODAY
     with_pdf = sum(1 for v in venues if v['pdfs'])
-    lines = [f'## Shanghai Disney Resort menu scan {NOW} UTC', '',
+    lines = [f'## Shanghai Disney Resort menu scan {datetime.now(ZoneInfo('America/Los_Angeles')).strftime('%a, %b %-d, %Y, %-I:%M %p %Z')}', '',
              f"{len(venues)} venues on the site ({ctx['gone_404']} stale sitemap links skipped), {with_pdf} with a menu PDF ({ctx['pdf_count']} PDFs read, {ctx['price_count']} price tokens)" + (f', {len(failures)} fetch failure(s).' if failures else ', 0 failures.'), '']
     first_run = ctx['first_run']
     if first_run:
