@@ -305,74 +305,83 @@ Pulled,Venue,Location,PdfFile,Page,PriceRMB,ItemGuess,Slug
 2026-09-30,CookieAnn Bakery Café,Mickey Avenue,cookieann_bakery_cafe0901.pdf,3,58,Made-With-Love Duffy and Friends,cookieann-bakery-cafe
 2026-09-30,CookieAnn Bakery Café,Mickey Avenue,cookieann_bakery_cafe0901.pdf,3,98,CookieAnn's Made-With-Love Pastry,cookieann-bakery-cafe
 2026-09-30,CookieAnn Bakery Café,Mickey Avenue,cookieann_bakery_cafe0901.pdf,4,58,Duffy and Friends Sipper,cookieann-bakery-cafe
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,5,138,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,5,388,APPETIZERS,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,6,138,APPETIZERS,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,7,128,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,7,98,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,7,128,"Crab Dressing Shaving,",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,7,58,"Vinegar Crab Arancini Cheese Ball, Tartar Sauce, Parmesan Cheese Shaving, Cheddar Cheese, Herb Salad, and Pesto Sauce",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,7,58,"Cherry Tomato, Burrata Cheese, Arugula, Frisee, Basil, Pine Nut, Balsamic Pearl, Pesto Sauce, and Lemon Vinegar Dressing",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,8,328,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,198,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,168,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,228,"Hamburger Bacon, and",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,138,"Hamburger Bun, Wagyu Beef Patty, Smoked Beef Brisket, Bacon, Tomato, Lettuce, Cheddar Cheese, Thin French Fries, and Tom",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,198,"Herb Oil, Basil, and Lemon Butter Sauce Spaghetti, Sauce,",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,138,"Green Spaghetti, Blue Mussel, Squid, Shrimp, Cherry Tomato, Pesto Sauce, Tomato Sauce, and Chili",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,168,"Linguini, Roasted Tomato, Herb Salad, and Rosemary Jus Mushroom, Truffle",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,9,138,"Linguini, Truffle Shaving, Portobello Mushroom, Button Mushroom, Shiitake Mushroom, Oyster Mushroom, Cream Truffle Sauce",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,38,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,50,SIDES,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,38,"and Herb Bread Fried Chicken Tender, Tomato Salsa",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,38,"French Fries, Garlic Aioli",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,88,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,48,Spicy Fried Chicken Wing,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,48,Spicy Fried Chicken Wing,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,10,58,Roasted Cherry Tomato Seasonal,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,11,11,KIDS’ CREATE-YOUR-OWN Recommended to Years Old,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,11,158,KIDS’ CREATE-YOUR-OWN Recommended to Years Old,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,12,98,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,12,98,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,13,68,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,13,68,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,13,68,"Daisy Duck Strawberry Ice Cream Donald Waffle Cone, Strawberry Ice Cream, Chocolate, and Sprinkles Waffle",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,14,88,MILKSHAKES,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,14,88,MILKSHAKES,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,14,88,MILKSHAKES GGooffyy CChhooccoollaattee MMiillkksshhaakkee,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,15,98,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,15,88,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,15,98,"Vanilla Custard Mixed Puff, Vanilla Ice Cream, Vanilla Custard, Hazelnut, Pistachio, Passionfruit and Warm Chocolate Sau",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,15,88,"Mixed Berries, Pistachio Biscotti Pistachio, Passionfruit Flavor Panna Cotta, Pistachio Biscotti, Strawberry, Blueberry,",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,16,78,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,16,78,"Salty Pineapple Fizz Pineapple, Preserved Plum, Lemon, Lime, Rosemary Donald Duck Passionfruit",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,16,78,"and Pineapple Flavored Slush Orange Juice, Mirinda Passionfruit Pineapple Flavor, Blue Curacao Syrup, Mint, Lactobacillu",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,16,78,"Donald Duck Ice Cream Soda Blue Curacao Syrup, Elderberry Flavor Syrup, Cream, Vanilla Ice Cream, and Macerated Cherry",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,17,78,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,17,250,Green Tea Kiwi Bliss,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,17,88,"Green Tea Kiwi Bliss Elderberry Flavor Syrup, Kiwi Syrup, Golden Kiwi, Lemon, Jasmine Tea",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,17,120,"Elderberry Flavor Syrup, Kiwi Syrup, Golden Kiwi, Lemon, Jasmine Tea Kiwi Gin",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,17,18,when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,18,78,Specialty Drinks,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,18,200,Celebration Specialty Drinks Winter Melon Flavored,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,18,88,"Lemon Tea Winter Melon Juice, Rose Flavored Syrup, Lemon, Lime, Rosemary",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,18,180,"Winter Melon Juice, Rose Flavored Syrup, Lemon, Lime, Rosemary Winter Melon Highball(Alcoholic)",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,18,18,restrictions when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,58,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,68,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,68,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,28,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,38,Celebration Edition,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,"Orange Flavor, Ginger Ale,Tonic Water",donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,48,,donalds-dine-n-delights
-2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights0908.pdf,19,18,Whole Fat Milk Orange Juice or Apple Juice *The sale of alcoholic beverages to Guests under years old is prohibited,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,98,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,138,Trio of,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,168,Trio of Soft Buns Chef Donald Sundae Seafood Spaghetti,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,68,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,5,168,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,6,88,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,6,150,Red Berry Vodka(Alcoholic),donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,6,78,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,6,300,Strawberry Cranberry Blueberry Flavored Milkshake,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,6,18,restrictions when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited o,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,7,68,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,7,68,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,7,68,"and Sprinkles Milk, Milk Powder, Strawberry Puree, Strawberry, Flour, Chocolate, Sprinkles, Raspberry Puree, and Neutral",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,8,88,MILKSHAKES,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,8,88,MILKSHAKES,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,8,88,MILKSHAKES GGooffyy CChhooccoollaattee MMiillkksshhaakkee,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,9,138,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,9,388,APPETIZERS,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,10,138,APPETIZERS,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,11,128,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,11,98,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,11,128,"Crab Dressing Shaving,",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,11,58,"Vinegar Crab Arancini Cheese Ball, Tartar Sauce, Parmesan Cheese Shaving, Cheddar Cheese, Herb Salad, and Pesto Sauce",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,11,58,"Cherry Tomato, Burrata Cheese, Arugula, Frisee, Basil, Pine Nut, Balsamic Pearl, Pesto Sauce, and Lemon Vinegar Dressing",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,12,328,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,198,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,168,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,228,"Hamburger Bacon, and",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,138,"Hamburger Bun, Wagyu Beef Patty, Smoked Beef Brisket, Bacon, Tomato, Lettuce, Cheddar Cheese, Thin French Fries, and Tom",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,198,"Herb Oil, Basil, and Lemon Butter Sauce Spaghetti, Sauce,",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,138,"Green Spaghetti, Blue Mussel, Squid, Shrimp, Cherry Tomato, Pesto Sauce, Tomato Sauce, and Chili",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,168,"Linguini, Roasted Tomato, Herb Salad, and Rosemary Jus Mushroom, Truffle",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,13,138,"Linguini, Truffle Shaving, Portobello Mushroom, Button Mushroom, Shiitake Mushroom, Oyster Mushroom, Cream Truffle Sauce",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,38,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,50,SIDES,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,38,"and Herb Bread Fried Chicken Tender, Tomato Salsa",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,38,"French Fries, Garlic Aioli",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,88,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,48,Spicy Fried Chicken Wing,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,48,Spicy Fried Chicken Wing,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,14,58,Roasted Cherry Tomato Seasonal,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,15,11,KIDS’ CREATE-YOUR-OWN Recommended to Years Old,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,15,158,KIDS’ CREATE-YOUR-OWN Recommended to Years Old,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,16,98,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,16,98,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,17,98,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,17,88,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,17,98,"Vanilla Custard Mixed Puff, Vanilla Ice Cream, Vanilla Custard, Hazelnut, Pistachio, Passionfruit and Warm Chocolate Sau",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,17,88,"Mixed Berries, Pistachio Biscotti Pistachio, Passionfruit Flavor Panna Cotta, Pistachio Biscotti, Strawberry, Blueberry,",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,18,78,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,18,78,"Donald Duck Ice Cream Soda Blue Curacao Flavored Syrup, Elderberry Flavored Syrup, Cream, Vanilla Ice Cream, Macerated C",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,19,78,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,19,250,Green Tea Kiwi Bliss,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,19,88,"Green Tea Kiwi Bliss Elderberry Flavored Syrup, Kiwi Flavored Syrup, Golden Kiwi, Lemon, Jasmine Tea",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,19,120,"Elderberry Flavored Syrup, Kiwi Flavored Syrup, Golden Kiwi, Lemon, Jasmine Tea Kiwi Gin",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,19,18,restrictions when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited o,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,20,78,Specialty Drinks,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,20,200,Celebration Specialty Drinks Winter Melon Flavored,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,20,88,"Lemon Tea Winter Melon Juice, Rose Flavored Syrup, Lemon, Lime, Rosemary",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,20,180,"Winter Melon Juice, Rose Flavored Syrup, Lemon, Lime, Rosemary Winter Melon Highball(Alcoholic)",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,20,18,restrictions when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited o,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,58,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,68,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,68,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,28,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,38,Celebration Edition,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,"Orange Flavor, Ginger Ale,Tonic Water",donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,48,,donalds-dine-n-delights
+2026-09-30,Donald's Dine 'n Delights,Disneytown,donalds_dine_n_delights.pdf,21,18,restrictions when arriving at the restaurant. *The sale of alcoholic beverages to Guests under years old is prohibited o,donalds-dine-n-delights
 2026-09-30,Duffy and Friends Celebration Hall,Adventure Isle,duffy_and_friends_celebration_hall0908.pdf,1,119,,duffy-and-friends-celebration-hall
 2026-09-30,Duffy and Friends Celebration Hall,Adventure Isle,duffy_and_friends_celebration_hall0908.pdf,1,119,Barley Noodles with Pork Bone Soup Black Barley,duffy-and-friends-celebration-hall
 2026-09-30,Duffy and Friends Celebration Hall,Adventure Isle,duffy_and_friends_celebration_hall0908.pdf,1,119,Black Pepper Beef and Meatball Barley Noodles with Pork Bone Soup,duffy-and-friends-celebration-hall
