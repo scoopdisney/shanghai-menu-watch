@@ -1,0 +1,42 @@
+p1: 80 75
+p1: 虎尾火腿 小熊维尼
+p1: 元/RMB 元/RMB
+p1: 南瓜三明治 200克/g 牛肉蘑菇三明治 200克/g
+p1: Winnie the Pooh
+p1: Tiger Tail Ham Pumpkin Sandwich
+p1: Beef and Mushroom Ragout Sandwich
+p1: 饮料
+p1: BEVERAGS
+p1: 咖啡 30 45
+p1: 橙香热美式
+p1: 元/RMB 元/RMB
+p1: (冷)473毫升/ml 354毫升/ml
+p1: Coffee Orange Flavored Hot Coffee
+p1: (热)354毫升/ml
+p1: 35 45
+p1: 拿铁 紫薯风味拿铁
+p1: 元/RMB 元/RMB
+p1: (冷)473毫升/ml 354毫升/ml
+p1: Caffé Latte Purple Sweet Potato Flavored Latte
+p1: (热)354毫升/ml
+p1: 35 10
+p1: 卡布奇诺 涵养泉10岁生日庆典纪念款 元/RMB
+p1: 元/RMB
+p1: (热)354毫升/ml KSF Natural Mineral Water 10th Birthday Celebration Edition 550毫升/ml
+p1: Cappuccino
+p1: 15
+p1: 百事可乐10岁生日庆典纪念款 元/RMB
+p1: 芝香玉米汁 40
+p1: 元/RMB
+p1: Pepsi 10th Birthday Celebration Edition 600毫升/ml
+p1: 354毫升/ml
+p1: Cheese Flavored Corn Juice
+p1: 15
+p1: 康师傅冰红茶 元/RMB
+p1: 石榴风味冰咖啡 45
+p1: 元/RMB 低糖高纤10岁生日庆典搭子瓶 500毫升/ml
+p1: Pomegranate Flavored Iced Coffee 473毫升/ml KSF Ice Tea Low Sugar High Fiber
+p1: 10th Birthday Celebration Pal Edition
+p1: *所有蛋制品均采用非笼养鸡蛋。如果您有特殊餐饮需求，请在到达小食亭时主动告知演职人员。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *All egg products are from Cage-Free sources. Please inform Cast Members of any dietary restrictions on arrival at the kiosk. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY BASED ON THE “WINNIE THE POOH” WORKS, BY A.A. MILNE AND E.H. SHEPARD

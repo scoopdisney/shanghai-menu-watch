@@ -1,0 +1,226 @@
+p1: 咸鸡腿海鲜滑蛋
+p1: 米线配番茄汤
+p1: Salted Chicken Leg and
+p1: Seafood & Scramble Egg
+p1: Rice Noodles with Tomato Soup
+p1: 牛肉咸鸡腿
+p1: 米线配番茄汤
+p1: Beef and Salted Chicken Leg
+p1: Rice Noodles with Tomato Soup
+p1: 119
+p1: 元/RMB 950克/g
+p1: 牛肉海鲜滑蛋
+p1: 米线配番茄汤
+p1: Beef and Seafood & Scramble Egg
+p1: Rice Noodles with Tomato Soup
+p1: 119
+p1: 元/RMB 950克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 150克/g
+p1: 元/RMB 850克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: 亚
+p2: 洲
+p2: 美食之旅
+p2: Flavorful Journey
+p2: A
+p2: THROUGH ASIA
+p2: 亚洲精选
+p2: ASIAN SELECTION
+p2: 椰椰香香咖咖喱喱鸡鸡面面 海海鲜鲜叻叻沙沙 番番茄茄和和牛牛肉肉丸丸配配意意大大利利面面
+p2: SSeeaaffoodd LLaakkssaa TToommaattoo WWaaggyyuu BBeeff MMeeaattbbaall wwiitthh
+p2: CCooccoonnuutt CCuurryy
+p2: SSppaagghheettii
+p2: CChhiicckkeenn NNooddlleess 110099
+p2: 1199
+p2: 110099 6600克克//gg
+p2: 5580克克//gg 6600克克//gg
+p2: 299
+p2: 1600克/g
+p2: SSS 海海
+p2: ppp
+p2: iiicccyyy 鲜鲜
+p2: KKK 辣辣 炸炸鸡鸡腿腿配配姜姜黄黄饭饭 宫宫保保鸡鸡肉肉虾虾球球配配香香肠肠饭饭 大大虾虾牛牛肉肉麻麻辣辣烫烫
+p2: NNN iii 泡泡
+p2: oooodddlll mmm ccc 菜菜
+p2: hhh iii 锅锅
+p2: eee SSS D D ee ee pp -- ffrr ii ee dd SS pp ii cc ee dd CChhiicckkeenn TThhiigghh G G oo nn gg BB aa oo CC hh ii cc kk ee nn ww ii tthh （（ 汤汤 底底 可可 选选 辣辣 汤汤 或或 番番 茄茄 汤汤 ））
+p2: sss SSSttt eeeaaa fffoooo
+p2: eee www ddd
+p2: w w iitt hh TT uu rr mm ee rr iicc RR ii cc ee S Shh rr ii mm pp aa nn dd SS aa uu ss aa gg ee RR iiccee "" MMaa LL aa TT aann gg" " NN oo oodd llee SSoouupp
+p2: 米奇好伙伴主厨推荐双人餐 wwiitthh PPrraawwnn aanndd BBeeff
+p2: 110099 110099
+p2: Recommendation
+p2: & Pals Chef Feast ((CChhooiiccee ooff SSppiiccyy SSoouupp oorr TToommaattoo SSoouupp))
+p2: Mickey for 558800克克//gg 448800克克//gg
+p2: 2
+p2: 99
+p2: 998800克克//gg
+p2: 餐餐
+p2: 套套
+p2: 童童
+p2: 儿儿
+p2: MMEEAALL
+p2: KKIIDDSS''
+p2: * 套 餐 含 1 杯 4 7 3 毫 升 无 酒 精 冷 饮 ( 特 色 饮 料 除 外 )。
+p2: + 1 0 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 咖 啡 ( 冷 ) ( 4 7 3 毫 升 ) 或 咖 啡 ( 热 ) ( 3 5 4 毫 升 )。
+p2: + 1 5 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 拿 铁 ( 冷 ) ( 4 7 3 毫 升 ) 或 拿 铁 ( 热 ) ( 3 5 4 毫 升 ) 或 卡 布 奇 诺 ( 3 5 4 毫 升 )。
+p2: + 3 5 元 可 将 套 餐 内 饮 料 ( 4 7 3 毫 升 ) 升 级 为 摩 卡 ( 冷 ) ( 4 7 3 毫 升 ) 或 摩 卡 ( 热 ) ( 3 5 4 毫 升 )。
+p2: 番番茄茄牛牛腩腩配配米米饭饭
+p2: *Combo includes one 473ml non-alcoholic cold beverage (Specialty Drinks Excluded).
+p2: 含含奇奇蒂蒂小小食食盒盒
+p2: Add RMB 10 to upgrade beverage (473ml) in the combo to Coffee(Cold)(473ml) or Coffee(Hot)(354ml).
+p2: Add RMB 15 to upgrade beverage (473ml) in the combo to Caffé Latte(Cold)(473ml) or Caffé Latte(Hot)(354ml) or Cappuccino (354ml).
+p2: TToommaattoo BBeeff BBrriisskkeett && SStteeaammeedd RRiiccee
+p2: Add RMB 35 to upgrade beverage(473ml) in the combo to Mocha(Cold)(473ml) or Mocha(Hot)(354ml).
+p2: wwiitthh CChhiipp ''nn'' DDaallee SSnnaacckk BBooxx
+p2: 119988
+p2: 配菜
+p2: SIDE DISHES
+p2: 227700克克//gg
+p2: 含)
+p2: (
+p2: 岁 3
+p2: 周 ed
+p2: g
+p2: 龄 3 a
+p2: re n
+p2: 年 d ) 酥 酥 脆脆 藕藕 盒盒 五 五 香香 肉肉 卷卷 酥 酥 脆脆 花花 菜菜
+p2: 于 童 il iv e
+p2: 用 儿 c h s
+p2: 的 to lu
+p2: 适 s in c D D ee ee pp -- ffrr ii ee dd LLoottuuss RRoott D D ee ee pp -- ff rr ii ee dd PP oo rrkk RRooll F F rr ii ee dd CC aa uu ll iiff ll oo ww eerr
+p2: 餐 含 ) e
+p2: p li th
+p2: 套 岁 ( p b o w w ii tt hh PP oo rr kk w w ii tt hh FF ii vv ee SS pp iicc ee w w ii tt hh GG oo cc hh uu jj aa nn gg
+p2: 童 a (
+p2: 儿 周 n u ld
+p2: 1 e o
+p2: * 1 m r s 4 4 55 4 4 55 4 4 00
+p2: 至 's e a
+p2: i d y
+p2: K 1 1
+p2: * to
+p2: 1 1 5500 克克 // gg 1 15500 克克 // gg 1 1 22 00 克克 // gg
+p2: *包含一盒190毫升蒙牛未来星牛奶
+p2: 或一杯250毫升无酒精冷饮(特色饮料除外)
+p2: 或一瓶350毫升康师傅涵养泉及苹果泥一份
+p2: *Includes a 190ml Mengniu Future Star Milk
+p2: or a 250ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p2: or 350ml KSF Natural Mineral Water and Apple Puree
+p2: 甜品
+p2: DESSERTS
+p2: 椰椰香香马马蹄蹄蒸蒸糕糕 米米奇奇蜂蜂巢巢蛋蛋糕糕
+p2: 米米奇奇酒酒酿酿布布丁丁 黄黄油油年年糕糕
+p2: MMiicckkeeyy HHoonneeyyccoommbb CCaakkee
+p2: MMiicckkeeyy FFeerrmmeenntteedd RRiiccee PPuuddiinngg BBuutteerr RRiiccee CCaakkee CCooccoonnuutt WWaatteerr CChheessttnnuutt
+p2: SStteeaammeedd CCaakkee
+p2: 4400 4400 3355
+p2: 3300
+p2: 118800克克//gg 116600克克//gg 9900克克//gg
+p2: 8800克克//gg
+p2: *所有蛋制品均采用非笼养鸡蛋。 *所有价格以人民币计算。所有图片和重量仅供参考
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。 *All egg products are from Cage-Free sources. *All prices *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解 are in CNY. All images and weights are for reference only
+p2: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant
+p2: *We may substitute different kinds of vegetables in any combo meal with the change in seasons
+p2: Thank you for your understanding
+p2: © DISNEY
+p3: 亚
+p3: 洲
+p3: 美食之旅
+p3: Flavorful Journey
+p3: A
+p3: THROUGH ASIA
+p3: 饮品
+p3: BEVERAGES
+p3: 套餐专属升级享更多优惠
+p3: Exclusive Package Upgrade with Extra Discounts
+p3: 泰式云朵奶茶
+p3: 百香果菠萝风味冰咖啡
+p3: Thai Flavored Milk Tea
+p3: Passionfruit & Pineapple Flavored
+p3: 45
+p3: Iced Coffee
+p3: 473毫升/ml
+p3: 45
+p3: 473毫升/ml
+p3: 迈泰
+p3: Mai Tai
+p3: 68
+p3: 350毫升/ml 香茅柠檬茶
+p3: *根据法律规定，不得向18岁以下游客销售酒类商品 Lemongrass Lemon Tea
+p3: 我们将*T查he验 s购ale买 o者f a的lco有ho效lic身 b份ev证era件ge以s 确to 认gu年es龄ts
+p3: 40
+p3: under 18 years old is prohibited by law
+p3: We will check valid ID credentials to confirm age
+p3: 45 473毫升/ml
+p3: 石榴风味冰咖啡
+p3: Pomegranate Flavored Iced Coffee 473毫升/ml
+p3: 45 茗茶 20
+p3: 橙香热美式
+p3: 354毫升/ml
+p3: Orange Flavored Hot Coffee 354毫升/ml Tea
+p3: 45 各式饮料 20
+p3: 黑芝麻拿铁
+p3: Assorted Beverages 473毫升/ml
+p3: Black Sesame Latte 354毫升/ml
+p3: 40 25
+p3: 芝香玉米汁
+p3: 650毫升/ml
+p3: Cheese Flavored Corn Juice 354毫升/ml
+p3: 青岛啤酒/喜力啤酒 25
+p3: 30
+p3: 咖啡(热/冷)
+p3: 330毫升/ml
+p3: Tsingtao Beer/Heineken Beer
+p3: Coffee(Hot/Cold) 354毫升/ml (热 Hot)
+p3: 473毫升/ml (冷 Cold)
+p3: *根据法律规定，不得向18岁以下游客销售酒类商品。
+p3: 35
+p3: 拿铁(热/冷)
+p3: 我们将查验购买者的有效身份证件以确认年龄。
+p3: 每单至多购买2杯。
+p3: CafféLatte(Hot/Cold) 354毫升/ml (热 Hot) *The sale of alcoholic beverages to Guests under 18 years old is prohibited by law.
+p3: We will check valid ID credentials to confirm age.
+p3: 473毫升/ml (冷 Cold)
+p3: Maximum two cups per transaction.
+p3: 35
+p3: 卡布奇诺
+p3: 儿童餐 KIDS' MEAL
+p3: Cappuccino 354毫升/ml
+p3: 素食
+p3: VEGETARIAN MEAL
+p3: 番茄牛腩配米饭 55
+p3: Tomato Beef Brisket with Rice 270克/g
+p3: 卤豆腐素食拌饭 89
+p3: *包含一盒190毫升蒙牛未来星牛奶或一杯250毫升无酒精冷饮(特色饮料除外)
+p3: Braised Tofu Vegetarian 或一瓶350毫升康师傅涵养泉及苹果泥一份
+p3: 480克/g
+p3: *Includes a 190ml Mengniu Future Star Milk or a 250ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p3: Bibimbap Rice Bowl
+p3: or 350ml KSF Natural Mineral Water and Apple Puree
+p3: **K儿id童's m套e餐nu适 ap用p于lie年s to龄 c3hi周ldr岁en( 含ag)e至d 31 1to周 11岁 y(e含ar)s 的old儿 (b童oth inclusive)
+p3: 配餐 SIDE DISH
+p3: 葱油芋艿 30 新鲜西瓜杯 25
+p3: Stewed Taro with Scallion Oil 150克/g Fresh Watermelon Cup 220克/g
+p3: 清炒西兰花配芝麻酱 30 米饭 5
+p3: Stir-fried Broccoli with Sesame Sauce Rice
+p3: 120克/g 250克/g
+p3: *所有蛋制品均采用非笼养鸡蛋。 *所有价格以人民币计算。所有图片和重量仅供参考
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。 *套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解
+p3: *All egg products are from Cage-Free sources. *All prices are in CNY. All images and weights are for reference only
+p3: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant
+p3: *We may substitute different kinds of vegetables in any combo meal with the change in seasons
+p3: Thank you for your understanding
+p3: © DISNEY

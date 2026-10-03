@@ -1,0 +1,97 @@
+p1: 品 定
+p1: 饮 限
+p1: 选 咸芝士风味拿铁 45 节
+p1: 精 Beverage 季 Limited
+p1: Salted Cheese Flavored Latte 473毫升/ml asonal
+p1: ected
+p1: e l S e
+p1: S
+p1: 鸳鸯咖啡 45
+p1: Yuan Yang Coffee 473毫升/ml
+p1: 精选
+p1: 啡
+p1: 咖
+p1: Selections
+p1: 遇
+p1: 浓 presso
+p1: *每单至多购买2套
+p1: s *Maximum two sets per transaction
+p1: e
+p1: N
+p1: 蜜桃风味冰茶 158
+p1: 缤纷奶盖水果茶 50
+p1: 含达菲和朋友们吸管杯 450毫升/ml
+p1: Colorful Fruit Tea with Cheese Milk Cap 650毫升/ml
+p1: Peach Flavored Iced Tea
+p1: with Duffy and Friends Souvenir Cup
+p1: 冻柠乳酸菌茶配香草奶盖 50
+p1: 橙香风味拿铁 68
+p1: Iced Lemon Lactobacillus Tea with Vanilla Milk Cap 650毫升/ml
+p1: 含达菲和朋友们纪念杯 500毫升/ml
+p1: 任选其一 (浓烈/低咖啡因)
+p1: Orange Flavored Latte
+p1: Choose one from (Intenso, Decaffeinato)
+p1: with Duffy and Friends Souvenir Cup
+p1: 泰式云朵奶茶 45
+p1: Thai Flavored Milk Tea 473毫升/ml
+p1: 咖啡 30
+p1: Coffee 473毫升/ml (冷 Cold) 昔
+p1: 奶
+p1: 354毫升/ml (热 Hot) Milkshake
+p1: 蜜桃风味气泡水 40
+p1: Peach Flavored Sparkling Water 473毫升/ml
+p1: 拿铁 35
+p1: Caffé Latte 473毫升/ml (冷 Cold)
+p1: 354毫升/ml (热 Hot)
+p1: 瓶装饮料 Bottle Drinks
+p1: 卡布奇诺 35
+p1: Cappuccino 473毫升/ml (冷 Cold)
+p1: 354毫升/ml (热 Hot)
+p1: 涵养泉 10
+p1: 10岁生日庆典纪念款 550毫升/ml
+p1: *所有价格以人民币计算。*所有图片和重量仅供参考。
+p1: KSF Natural Mineral Water
+p1: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p1: 10th Birthday Celebration Edition
+p1: *All prices are in CNY. *All images and weights are for reference only.
+p1: 米妮草莓奶昔 68
+p1: *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: 15 Minnie Strawberry Milkshake 473毫升/ml
+p1: 百事可乐
+p1: 10岁生日庆典纪念款 600毫升/ml
+p1: *软冰淇淋浆料由 倾情提供。*巧克力产品由M豆 倾情提供
+p1: 巧克力奶昔 68
+p1: Pepsi *Soft serve ice cream slurries are provided by Mengniu. *Chocolate products are provided by M&M'S.
+p1: 10th Birthday Celebration Edition © DISNEY Chocolate Milkshake 473毫升/ml
+p2: 4455
+p2: 447733毫毫升升//mmll
+p2: 4455
+p2: 335544毫毫升升//mmll
+p2: 4455
+p2: 335544毫毫升升//mmll
+p2: 4400
+p2: 335544毫毫升升//mmll
+p2: *以上价格均为人民币。所有图片和容量仅供参考。
+p2: *All prices are in CNY. All pictures and volumes are for reference only.
+p2: ©DISNEY
+p3: 7755 7755
+p3: 228800克克//gg 2200克克//gg
+p3: 麻麻辣辣牛牛肉肉可可丽丽饼饼 提提拉拉米米苏苏可可丽丽饼饼配配香香草草冰冰淇淇淋淋
+p3: SSppiiccyy CChhiillii TTiirraammiissuu CCrreeppee
+p3: BBeeff CCrreeppee wwiitthh VVaanniillaa IIccee CCrreeaamm
+p3: 7755
+p3: 7755
+p3: 2200克克//gg
+p3: 228800克克//gg
+p3: 上上海海风风味味可可丽丽饼饼 黑黑芝芝麻麻香香蕉蕉可可丽丽饼饼配配巧巧克克力力冰冰淇淇淋淋
+p3: SShhaanngghhaaiinneessee BBllaacckk SSeessaammee
+p3: FFllaavvoorreedd CCrreeppee aanndd BBaannaannaa CCrreeppee
+p3: wwiitthh CChhooccoollaattee IIccee CCrreeaamm
+p3: 5500 6688
+p3: 113300克克//gg 2200克克//gg
+p3: 杨杨枝枝甘甘露露可可夫夫饼饼 法法式式吐吐司司配配香香草草冰冰淇淇淋淋
+p3: MMaannggoo PPoommeelloo FFrreenncchh TTooaasstt
+p3: aanndd SSaaggoo CCrrooffllee wwiitthh VVaanniillaa IIccee CCrreeaamm
+p3: *所有价格以人民币计算。*所有图片和重量仅供参考。*如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。
+p3: *All prices are in CNY. *All images and weights are for reference only. *Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p3: © DISNEY

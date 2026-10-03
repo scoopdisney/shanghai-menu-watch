@@ -1,0 +1,322 @@
+p1: 叉烧虾仁
+p1: 阳春面配红汤
+p1: Char Siu and Shrimp
+p1: Yang Chun Noodles with Soy Soup
+p1: 牛腱叉烧
+p1: 阳春面配红汤
+p1: Beef Shank and Char Siu
+p1: Yang Chun Noodles with Soy Soup
+p1: 119
+p1: 元/RMB 700克/g
+p1: 牛腱虾仁
+p1: 阳春面配红汤
+p1: Beef Shank and Shrimp
+p1: Yang Chun Noodles with Soy Soup
+p1: 119
+p1: 元/RMB 700克/g
+p1: 葱油芋艿
+p1: Stewed Taro with
+p1: Scallion Oil
+p1: 119
+p1: 30
+p1: 元/RMB 150克/g
+p1: 元/RMB 700克/g
+p1: *套餐配以一杯473毫升无酒精冷饮(特色饮料除外)
+p1: *Combo includes a 473ml non-alcoholic cold beverage(Specialty Drinks Excluded)
+p1: *套餐中的蔬菜有可能根据季节变化提供替代食材,尽请谅解。如果您有特殊餐饮需求,请在到达餐厅时主动告知演职人员。
+p1: 所有蛋制品均采用非笼养鸡蛋。所有图片和重量仅供参考。所有价格以人民币计算。
+p1: *We may substitute different kinds of vegetables in any combo meal with the change in seasons. Thank you for your understanding.
+p1: Please inform Cast Members of any dietary restrictions on arrival at the restaurant.
+p1: All egg products are from Cage-Free sources. All images and weights are for reference only. All prices are in CNY.
+p1: ©DISNEY
+p2: THE PIXAR PARTY PLATTER
+p2: BURGER
+p2: P Y
+p2: P
+p2: A INC
+p2: 到转圈 R
+p2: H E
+p2: 圈 堡 D
+p2: L 乐
+p2: U 牛 I-
+p2: 汉 B
+p2: F快
+p2: 和 U
+p2: Y
+p2: 堡 R
+p2: O 生
+p2: G
+p2: J
+p2: 先 E
+p2: R
+p2: 能
+p2: 超
+p2: 459
+p2: 元 / R M B 芝芝 士士 1 1 9
+p2: 1 2 9 和和 牛牛 汉汉
+p2: 培培 根根 芝芝 士士 堡堡
+p2: 1 8 00 克/ g 和和 牛牛
+p2: 食 用 汉汉 堡堡 CChhee eess ee WW
+p2: 推 荐 四 人 FOUR BBaa ccoo nn CC 元/ R M B aa gg yy uu 元/ R M B
+p2: ED FOR hh ee ee ss ee
+p2: RE COM M END 4 30 克/ g BB ee eeff 4 00 克/ g
+p2: WW aa gg yy uu BB BBuu rrggeerr
+p2: ee ff BB
+p2: uurr ggeerr
+p2: 食堡
+p2: MOTION- C H VEGGIE
+p2: 情绪 A R 素
+p2: E S N G 口 量
+p2: A E ”吃 一 B
+p2: C D U
+p2: K 怒 能 R
+p2: P “ 条
+p2: 薯 色 G
+p2: L 堡 & IE S E
+p2: A 汉 FR
+p2: 辣 ER & R
+p2: T BU RG 绿
+p2: B
+p2: T
+p2: E 兽 O
+p2: R
+p2: O
+p2: 怪 -
+p2: S
+p2: T
+p2: 99
+p2: 109
+p2: 油油 果果
+p2: 1 0 9 牛牛 蔬蔬 菜菜 牛牛 元/ R M B
+p2: 麻麻 辣辣 鸡鸡 肉肉 汉汉 排排 菇菇
+p2: 堡堡 元/ R M B oocc aa dd 汉汉 堡堡 3 90 克/ g
+p2: AAvv oo VV ee gg ee
+p2: 元 / R M B 拼盘 SSppii ccyy CChh iicckk 4 00 克/ g tt aa bb ll ee
+p2: eenn BBuurrggeerr aa nn dd PP oo rr tt
+p2: 4 5 0 克 / g oo bb ee ll ll
+p2: oo BBuu rrggeerr
+p2: rice
+p2: KIDS’MEAL
+p2: 软 斧猪排饭Boo-tifully W
+p2: a ll -E
+p2: 战 R ec ’
+p2: 里 h a s
+p2: 饭饭 rg
+p2: T i ng
+p2: e 喱喱
+p2: n T C
+p2: d u rry
+p2: 心 e o 咖咖
+p2: m
+p2: r R
+p2: In a 力力 ice
+p2: h
+p2: s
+p2: i a 瓦瓦
+p2: d w
+p2: ek
+p2: 足足
+p2: R
+p2: ci 加加
+p2: e
+p2: 169
+p2: 55
+p2: 战战 斧斧 猪猪 排排 配配 赛赛 道道
+p2: 蔬蔬 菜菜 和和 元/ R M B 1 0 9 补补 给给 站站 肉肉
+p2: mmaa hh 米米 饭饭 咖咖 喱喱 猪猪 排排 元 / R M B 丸丸 意意 面面
+p2: TToo aa ww kk PP oo 6 80 克/ g 饭饭 MMee aa ttbb
+p2: rr kk CC hh oo pp 元/ R M B 3 00 克 /g aall ll MM cc
+p2: ww i itt hh VV ee gg eett DDee pp-- ffrr iieedd QQ uu ee ee nn
+p2: aa bb ll eess aann PP oo rr kk 5 80 克/ g
+p2: dd RRiiccee aa nn dd PP aa ss tt aa
+p2: CC uu rr rr yy
+p2: RRiiccee
+p2: MOTION- C H
+p2: 情绪 A R
+p2: E S N G
+p2: A E
+p2: 转圈 C K D
+p2: 到
+p2: 圈 P
+p2: 头脑充能套餐 乐 L
+p2: 汉 A
+p2: 快 T
+p2: T
+p2: BRAIN BOOST BLAST E
+p2: 堡
+p2: R
+p2: 推荐两人食用
+p2: RECOMMENDED FOR TWO
+p2: 369
+p2: 元/RMB
+p2: 900克/g
+p2: 糖
+p2: 花 拼盘
+p2: 棉
+p2: ”
+p2: 象
+p2: 怒气值加载
+p2: “
+p2: 想 99%
+p2: 年 B “怒”
+p2: I 喝 一 口
+p2: N
+p2: 童
+p2: G
+p2: B
+p2: O
+p2: N
+p2: G
+p2: C
+p2: O
+p2: T
+p2: T
+p2: 特饮 SPECIAL DRINK
+p2: O
+p2: N
+p2: YDNAC ////
+p2: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解
+p2: *所有蛋制品均采用非笼养鸡蛋。*所有价格以人民币计算。所有图片和重量仅供参考
+p2: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant. *We may substitute different vegetables in any combo meal
+p2: with the change of seasons. Thank you for your understanding. *All menu items containing eggs are from Cage-Free sources. *All prices are in CNY. All images and weights are for reference only
+p3: FUN SNACKES
+p3: 口味随心选哟
+p3: Choose one flavor
+p3: from three
+p3: 薯薯
+p3: 脆脆
+p3: 脆脆
+p3: 变变
+p3: 一一
+p3: 身身
+p3: 摇摇
+p3: ss
+p3: ee
+p3: 40
+p3: rrii
+p3: FF
+p3: 6 8 5 0 巨巨 无无 霸霸
+p3: 缤缤 纷纷 情情 绪绪 炸炸 元 / R M B 春春 卷卷 4 5 ee
+p3: 鸡鸡 翅翅 超超 级级 JJ uumm uuffll
+p3: DD iipp EE mm 能能 量量 1 80 克 /g bboo SSpp rr ii nn gg
+p3: 元 / R M B oo tt iioo nn 元 / R M B 环环
+p3: C C hh HHee rroo ll 元 / R M B hh
+p3: 2 90 克 /g iicc kk ee nn WW 2 50 克 /g LLoo oo ppss Rr oo SS
+p3: iinn ggss 1 50 克 /g SShhaakkee &&
+p3: DESSERTS
+p3: 糖糖
+p3: 花花
+p3: 棉棉
+p3: ””
+p3: 象象
+p3: ““
+p3: 想想
+p3: BB
+p3: 年年 II
+p3: NN
+p3: GG
+p3: 童童 BB
+p3: OO
+p3: NN
+p3: GG
+p3: 58 CC
+p3: 50 30 45 OO
+p3: TT
+p3: TT
+p3: 元 / R M B 一一 眼眼 就就 黑黑 芝芝 麻麻 吉吉 ““ 小小 超超
+p3: 爱爱 的的 蜜蜜 元 / R M B 士士 果果 元 / R M B 人人 ”” 曲曲 奇奇 元 / R M B OO
+p3: 1 20 克 /g 瓜瓜 冰冰 淇淇 淋淋 配配 焦焦 糖糖 JJaa
+p3: EE yy ee--ss cc rr 1 30 克 /g BBllaa cckk SS ee ss aa 1 00 克 /g cckk-- JJaa cckk 4 0 克/ g NN
+p3: ee aa mm mm ee CC hh BB ii gg BB iitt ee AACC
+p3: MM ee ww ii tt hh uu rr rr oo ss
+p3: ll oo nn SSww CC aa rr aa CC oo oo kk iiee YYDDNN
+p3: iirr ll mm ee ll SS aa uu cc ee
+p3: 甜品
+p3: DESSERTS
+p3: 25
+p3: 新鲜西瓜杯
+p3: 元/RMB
+p3: Fresh Watermelon Cup 220克/g
+p3: 挺挺吸吸 的的
+p3: 配餐
+p3: SIDE DISH
+p3: EEyyee--ccaattcchhiinngg
+p3: 炖蔬菜配松子 45
+p3: 元/RMB
+p3: Ratatouille Vegetables with Pine Nuts 200克/g
+p3: Refreshing 葱油芋艿 30
+p3: 元/RMB
+p3: ddDrrRiiInnNkkKssS Stewed Taro with Scallion Oil 150克/g
+p3: 米饭 5
+p3: 229900克克//gg 元/RMB
+p3: 都都在在找找的的
+p3: Rice 250克/g
+p3: 6688 饮品
+p3: SSwwiimm iinnttoo BEVERAGES
+p3: 怪怪好好喝喝的的
+p3: 元元//RRMMBB
+p3: FFuurryy BBeerryy 美年达橙味含怒怒主题纪念杯 108
+p3: 447733毫毫升升//mmll
+p3: 元/RMB
+p3: Mirinda Orange with Anger Souvenir Cup
+p3: 400毫升/ml
+p3: 108
+p3: 蓝柑风味气泡水含苏利文主题纪念杯
+p3: 元/RMB
+p3: Blue Curacao Flavored Sparkling with Sully Souvenir Cup 400毫升/ml
+p3: 45 涵养泉 10
+p3: 石榴风味冰咖啡
+p3: 6688 元/RMB 元/RMB
+p3: Pomegranate Flavored 473毫升/ml 10岁生日庆典纪念款 550毫升/ml
+p3: KSF Natural Mineral Water
+p3: Iced Coffee
+p3: 元元//RRMMBB
+p3: 10th Birthday Celebration Edition
+p3: 447733毫毫升升//mmll
+p3: 橙香热美式 45
+p3: 茗茶 20
+p3: 元/RMB
+p3: 5500 Orange Flavored 元/RMB
+p3: 354毫升/ml Tea
+p3: 354毫升/ml
+p3: Hot Coffee
+p3: 元元//RRMMBB 35
+p3: 拿铁
+p3: 447733毫毫升升//mmll 黑芝麻拿铁 45
+p3: 元/RMB
+p3: Caffé Latte (冷/Cold)473毫升/ml
+p3: 元/RMB
+p3: Black Sesame Latte 354毫升/ml (热/Hot)354毫升/ml
+p3: 35
+p3: 卡布奇诺
+p3: 芝香玉米汁 40
+p3: 元/RMB
+p3: 元/RMB Cappuccino 354毫升/ml
+p3: Cheese Flavored
+p3: 354毫升/ml
+p3: Corn Juice
+p3: 咖啡 30
+p3: 元/RMB
+p3: Coffee
+p3: 珍珠奶茶 40 (冷 / C o ld ) 4 7 3 毫 升 / m l
+p3: (热 / H o t ) 35 4 毫 升 / m l
+p3: 元/RMB
+p3: Bubble Milk Tea 354毫升/ml
+p3: 超超醒醒神神的的 青岛啤酒/喜力啤酒 25
+p3: 元/RMB
+p3: Tsingtao Beer
+p3: IInnccrreeddiibbllyy RReeffrreesshhiinngg 各式饮料 20元/RMB 330毫升/ml
+p3: /Heineken Beer
+p3: 5500 Assorted 473毫升/ml
+p3: 不得向18岁以下游客销售酒类商品。
+p3: Beverages 25元/RMB 我们将查验购买者的有效身份证件
+p3: 元元//RRMMBB
+p3: 650毫升/ml 以确认年龄。每单至多购买2杯。
+p3: 447733毫毫升升//mmll The sale of alcoholic beverages to Guests under
+p3: 18 years old is prohibited by law.We will check
+p3: valid ID credentials to confirm age.Maximum
+p3: two cups per transaction.
+p3: *如果您有特殊餐饮需求，请在到达餐厅时主动告知演职人员。*套餐中的蔬菜有可能根据季节变化提供替代食材，尽请谅解
+p3: *所有蛋制品均采用非笼养鸡蛋。*所有价格以人民币计算。所有图片和重量仅供参考
+p3: *Please inform Cast Members of any dietary restrictions when arriving at the restaurant. *We may substitute different vegetables in any combo meal
+p3: with the change of seasons. Thank you for your understanding. *All menu items containing eggs are from Cage-Free sources. *All prices are in CNY. All images and weights are for reference only
